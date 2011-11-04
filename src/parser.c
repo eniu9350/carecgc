@@ -23,13 +23,18 @@ int getResultCount(HtmlContent* h, Boundary* pre, Boundary* post)
         return -3;
     }
 
+
+    memcpy(tmp, h->content+10604, 300);
+    tmp[300]='\0';
+    printf("after 10604, tmp=%s | pre->s=%s | lenofcontent=%d, lenofkey=%d", tmp, pre->s, strlen(h->content),strlen(pre->s));
+
     start = strstr(h->content, pre->s);
 
     if(!start)
     {
         return -1;
     }
-    printf("getResultCount 2\n");
+    printf("getResultCount 2, start-h->content=%d\n", start-h->content);
     start += strlen(pre->s)+pre->offset;
 
     end = strstr(start, post->s);
@@ -39,10 +44,10 @@ int getResultCount(HtmlContent* h, Boundary* pre, Boundary* post)
         return -2;
     }
 //for debug
-    memcpy(tmp, start, 300);
-    tmp[300]='\0';
+    //memcpy(tmp, start, 300);
+    //tmp[300]='\0';
 //printf("getResultCount 3, start=%d, end=%d, tmp=%s\n",start, end, tmp);
-    printf("getResultCount 3, tmp=%s", tmp);
+    //printf("getResultCount 3, tmp=%s", tmp);
 
     memcpy(strCount, start, end-start);
     strCount[end-start] = '\0';

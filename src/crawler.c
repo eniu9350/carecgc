@@ -19,6 +19,8 @@ static size_t WriteMemoryCallBack(void* contents, size_t size, size_t nmemb, voi
     h->size += realsize;
     h->content[h->size] = 0;
 
+	printf("realsize=%d, lenofcontet=%d\n", realsize, strlen(h->content));
+
     return realsize;
 }
 
@@ -57,12 +59,12 @@ int crawl(char* url, HtmlContent* h)
     strDisplay = (char*)malloc(111201);
     memcpy(strDisplay, h->content, 111200);
     strDisplay[111200] = '\0';
-              printf("\n%s", strDisplay);
+//              printf("\n%s", strDisplay);
 
-    if(h->content)
-    {
-        free(h->content);
-    }
+    //if(h->content)
+    //{
+     //   free(h->content);
+    //}
 
     curl_global_cleanup();
     return 0;

@@ -2,6 +2,7 @@
 #include <signal.h>
 #include <sys/time.h>
 #include <curl/curl.h>
+#include <string.h>
 #include "crawler.h"
 #include "parser.h"
 #include "task.h"
@@ -45,6 +46,7 @@ int getCount()
     res = crawl("http://www.google.com.hk/search?q=%E9%99%88%E5%85%89%E8%AF%9A", &h);
     //printf("content-----------------\n%s", h.content);
     //res = crawl("http://www.baidu.com", &h);
+	printf("lenofcontent after  crawl=%d\n", strlen(h.content));
 
     pre.prefix = 1;
     //pre.s = "resultStats>";
