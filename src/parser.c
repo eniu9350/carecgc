@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "parser.h"
-#include "crawler.h"
+//#include "crawler.h"
 #include "strutil.h"
 
 /*
