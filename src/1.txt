@@ -1,433 +1,4 @@
 argc=2
-30680 bytes retrieved
-
-<!doctype html><html><head><meta http-equiv="Content-Type" content="text/html; charset=Big5"><title>&#38472;光&#35802; - Google 搜尋</title><style>#gbar,#guser{font-size:13px;padding-top:1px !important}#gbar{height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}</style><style>
-    body,td,div,.p,a{
-      font-family:arial,sans-serif
-    }
-    body {
-      margin:0
-    }
-    #gbar{
-      float:left;
-      height:22px;padding-left:2px;
-      font-size:13px
-    }
-    
-    .gssb_c table{
-      font-size:1em
-    }
-    .gsfi,.gsfs{
-      font-size:17px
-    }
-    
-      .j{
-        width:34em
-      }
-    
-    a:link,.w,.q:active,.q:visited,.tbotu{
-      color:#11c
-    }
-    a.fl,.flc a{
-      color:#4272db;text-decoration:none
-    }
-    
-    a.gl{
-      text-decoration:none
-    }
-    cite, cite a:link{
-      color:#0E774A;
-      font-style:normal
-    }
-    #foot {
-      padding:0 8px;
-    }
-    #foot a{
-      white-space:nowrap
-    }
-    h3{
-      font-size:16px;
-      font-weight:normal;
-      margin:0;
-      padding:0
-    }
-    #res h3{
-      display:inline
-    }
-    .hd{
-      height:1px;
-      position:absolute;
-      top:-1000em
-    }
-    li.g,body,html,table,.std{
-      font-size:13px
-    }
-    li.g{
-      margin-bottom:14px;
-      margin-top:0;
-      zoom:1;
-    }
-    ol li,ul li{
-      list-style:none
-    }
-    h1,ol,ul,li{
-      margin:0;padding:0
-    }
-    #mbEnd li{
-      margin:1em 0
-    }
-    #mbEnd h2{
-      color:#676767;
-      font-family:arial,sans-serif;
-      font-size:11px;
-      font-weight:normal
-    }
-    #center_col{
-      border-left:1px solid #d3e1f9;
-      padding:0 8px
-    }
-    
-      #fll a,#bfl a{
-        margin:0 10px
-      }
-    
-    .f{
-      color:#767676
-    }
-    .grn{
-      color:#393
-    }
-    .ds{
-      border-right:1px solid #e7e7e7;
-      position:relative;
-      height:32px;
-      
-      z-index:100
-    }
-    .e{
-      margin:2px 0px 0.75em
-    }
-    #leftnav a,.slk a{
-      text-decoration:none
-    }
-    #leftnav h2{
-      color: #767676;
-      font-weight: normal;
-      margin:0
-    }
-    #logo{
-      display:block;
-      height:49px;
-      margin-top:12px;
-      margin-left:12px;
-      overflow:hidden;
-      position:relative;
-      width:137px
-    }
-    #logo img{
-      
-      left:0;
-      position:absolute;
-      top:-41px
-    }
-    .lnsec{
-      font-size:13px;
-      border-top:1px solid #c9d7f1;
-      margin-top:5px;
-      padding-top:8px
-    }
-    .lsb,.micon,.csb,.star,.star div{
-      background:url(/images/nav_logo_hp2.png) no-repeat;
-      overflow:hidden
-    }
-    .lst{
-      background:#fff;
-      border:1px solid #ccc;
-      border-bottom:none;
-      color:#000;
-      font:18px arial,sans-serif;
-      
-      float:left;
-      height:26px;
-      margin:0;
-      padding:4px 0 0;
-      padding-left:6px;
-      padding-right:10px;
-      vertical-align:top;
-      width:100%;
-      
-      word-break:break-all
-    }
-    .lst:focus{
-      outline:none
-    }
-    .lst-td{
-      border-bottom:1px solid #999;
-      padding:0
-    }
-    .lst-b{
-      border:1px solid #CCC;
-      border-bottom:none;
-      padding-right:0;
-      height:29px;
-      padding-top:1px
-    }
-    .tia input{
-      border-right:none;
-      padding-right:0
-    }
-    .tia{
-      padding-right:0
-    }
-    .lsbb{
-      background:#eee;
-      border:1px solid #999;
-      border-top-color:#ccc;
-      border-left-color:#ccc;
-      height:30px
-    }
-    .lsb{
-      background-position:bottom;
-      border:none;
-      color:#000;
-      cursor:pointer;
-      font:15px arial,sans-serif;
-      height:30px;
-      margin:0;
-      vertical-align:top
-    }
-    .lsb:active{
-      background:#ccc
-    }
-    .micon {
-      float:left;
-      height:19px;
-      margin-top:2px;
-      margin-right: 6px;
-      width:19px;
-    }
-    #nav{
-      
-      border-collapse:collapse;
-      margin-top:17px;
-      text-align:left
-    }
-    #nav td{
-      text-align:center;
-    }
-    .nobr{
-      white-space:nowrap
-    }
-    #showmodes .micon{
-      background-position:-150px -114px;
-      height:17px;
-      margin-left:9px;
-      width:17px;
-    }
-    #subform_ctrl{
-      font-size:11px;
-      height:26px;
-      margin:5px 3px 0;
-      margin-left:17px
-    }
-    .ts{
-      border-collapse:collapse
-    }
-    #mn{
-      table-layout:fixed;width:996px
-    }
-    .mitem{
-      font-size:15px;
-      line-height:24px;
-      margin-bottom:2px;
-      padding-left:0
-    }
-    .msel{
-      font-weight:bold;
-      margin:-1px 0 0 0;
-      border:solid #fff;
-      border-width:1px 0
-    }
-    .r{
-      margin:0
-    }
-    #res{
-      padding:4px 8px 0
-    }
-    .s br{
-      display:none
-    }
-    .spon{
-      font-size:11px;
-      font-weight:normal;
-      color:#767676
-    }
-    .mitem,.lnsec{
-      padding-left:8px
-    }
-    #showmodes{
-      font-size:15px;
-      line-height:24px;
-    }
-    #swr{
-      margin-top:4px
-    }
-    #swr li{
-      line-height:1.2;
-      margin-bottom:4px
-    }
-    .csb{
-      display:block;
-      height:40px;
-    }
-    .images_table td{line-height:17px;padding-bottom:16px}
-    .images_table img{border:1px solid #ccc;padding:1px}
-    .taf{
-      padding:1px 0 0
-    }
-    .tam{
-      padding:14px 0 0
-    }
-    .tal{
-      padding:14px 0 1px
-    }
-    #tbd,#abd{
-      display:block;
-      min-height:1px;
-      padding-top:3px
-    }
-    #tbd li{
-      
-      display:inline
-    }
-    .tbfo,.tbt,.tbpd{
-      margin-bottom:8px
-    }
-    #tbd .tbt li{
-      display:block;
-      font-size:13px;
-      line-height:1.2;
-      padding-bottom:3px;
-      padding-left:8px;
-      text-indent:-8px
-    }
-    .tbos,.b{
-      font-weight:bold;
-    }
-    a:hover{
-      text-decoration:underline
-    }
-    #leftnav a:hover {
-      text-decoration:underline;
-    }
-    em{
-      font-weight:bold;
-      font-style:normal
-    }
-    
-      #center_col b,#center_col em,#center_col strong,
-      #rhs_block b,#rhs_block em,#rhs_block strong{
-        color:#c03;
-        font-weight:normal
-      }
-      
-      #tbbc b{
-        color:#000;
-        font-weight:bold
-      }
-      
-      #center_col a b,#center_col a em,#center_col a strong,
-      #rhs a b,#rhs a em,#rhs a strong {
-        text-decoration:underline
-      }
-    
-    .gac_wd{
-      right:-2px !important;
-      
-      overflow:hidden
-    }
-    
-    .fmg{
-      display:inline-block;
-      margin-top:7px;
-      padding-right:8px;
-      text-align-left;
-      vertical-align:top;
-      width:90px;
-      zoom:1
-    }
-    .star{
-      
-          background-position:0 -120px;
-        
-      height:9px;
-      overflow-hidden;
-      width:50px
-    }
-    .star div{
-      
-          background-position:0 -110px
-        
-    }
-    
-    .pslires{
-      padding-top:6px;
-      overflow:hidden;
-      width:99.5%
-    }
-    .psliimg{
-      float:left;
-      height:90px;
-      text-align:top;
-      width:90px
-    }
-    .pslimain{
-      margin-left:100px;
-      margin-right:9em
-    }
-    .psliprice{
-      float:right;
-      width:7em
-    }
-    .psliprice b{
-      font-size:medium;
-      font-weight:bold;
-      white-space:nowrap
-    }
-    .psliimg img{
-      border:none
-    }
-    </style><script type="text/javascript">
-      window['hlprwt'] = function(t, ct) {
-        try {
-          if (t === window) {
-            t = window.event.srcElement;
-            while (t) {
-              if (t.href) {
-                break;
-              }
-              t = t.parentNode;
-            }
-          }
-          t.href = ct;
-          t.onmousedown = '';
-        } catch (e) {
-        }
-        return true;
-      }
-      window.google = { y: {} };
-      </script><script type="text/javascript"></script></head>
-    <body bgcolor="#ffffff" topmargin="3" marginheight="3" marginwidth="0"
-  ><div id=gbar><nobr><b class=gb1>所有網頁</b> <a class=gb1 href="http://www.google.com.hk/search?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&tbm=isch&source=og&sa=N&tab=wi">圖片</a> <a class=gb1 href="http://www.google.com.hk/search?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&tbo=u&tbm=vid&source=og&sa=N&tab=wv">影片</a> <a class=gb1 href="http://maps.google.com.hk/maps?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&sa=N&tab=wl">地圖</a> <a class=gb1 href="http://www.google.com.hk/search?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&tbo=u&tbm=nws&source=og&sa=N&tab=wn">新聞</a> <a class=gb1 href="http://translate.google.com.hk/?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&sa=N&tab=wT">翻譯</a> <a class=gb1 href="https://mail.google.com/mail/?hl=zh-TW&tab=wm">Gmail</a> <a class=gb1 style="text-decoration:none" href="http://www.google.com.hk/intl/zh-TW/options/"><u>更多</u> &raquo;</a></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.com/history/optout?hl=zh-TW" class=gb4>網頁記錄</a> | <a  href="/preferences?hl=zh-TW" class=gb4>設定</a> | <a id=gb_70 href="https://accounts.google.com/ServiceLogin?hl=zh-TW&continue=http://www.google.com.hk/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A" class=gb4>登入</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div><br clear="all"><table border="0" cellpadding="0" cellspacing="0" id="mn" style="position:relative"><tr><td rowspan="2" valign="top" width="157"><h1><a href="/webhp?hl=" id="logo" title="Go to Google Home"><img src="/images/nav_logo_hp2.png" alt="" height="222" style="border:0" width="167"></a></h1></td><td valign="top" style="padding-left:9px" width="559"><form name="gs" id="tsf" method="GET" action="/search" style="display:block;margin:0;background:none"><table border="0" cellpadding="0" cellspacing="0" id="sbhost" style="border-bottom:1px solid #e7e7e7;margin-top:18px;position:relative"><tr><td class="lst-td" width="100%" valign="bottom" style=""><div style="position:relative;zoom:1"><input autocomplete="off" class="lst" type="text" name="q" maxlength="2048" title="搜尋" value="&#38472;光&#35802;"></div></td><td><div class="ds"><div class="lsbb"><input type="submit" name="btnG" class="lsb" value="搜尋"></div></div></td></tr></table></form></td><td style="padding-left:5px" width="259"></td></tr><tr><td width="100%"><div id="subform_ctrl"><div style="float:right"><a class="fl" href="/advanced_search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;ie=UTF-8">進階搜尋</a></div><div>約有<b>1,560,000</b>項符合<b>&#38472;光&#35802;</b>的查詢結果，以下是第 <b>1</b>-<b>10</b>項。</div></div></td><td></td></tr><tr><td valign="top" id="leftnav" style="padding:4px"><div id="modeselector" style="padding-bottom:4px"><ul><li class="mitem msel"><span class="micon" style="
-          background-position:-20px -132px
-        "></span>全部</li></ul><a id="showmodes" class="q" href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;prmdo=1&amp;sa=X"><span class="micon"></span><span class="msm">更多</span></a></div><div class="lnsec"><h2 class="hd">Search Options</h2><ul id="tbd" class="med"></ul><a href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;ie=UTF-8&amp;tbo=1" class="q" style="display:block;margin-bottom:16px">顯示選項...</a></div></td><td valign="top"><div id="center_col"><div id="tbbc" style="background:#ebeff9;padding:8px;margin-bottom:4px"><b>網路工具</b></div><div id="res"><div id="ires"><ol><li class="g"><h3 class="r"><a href="http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A" onmousedown="return hlprwt(this, 'http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A')"><b>&#38472;光&#35802;</b>- &#32500;基百科，自由的百科全&#20070;</a></h3><div class="s"><b>&#38472;光&#35802;</b>（1971年11月12日－），中&#22269;山&#19996;&#20020;沂人，因幼&#26102;生病&#23548;致&#21452;眼失明。<b>&#38472;光&#35802;</b><br>  &#27809;有&#32463;&#36807;法律的&#19987;&#19994;培&#35757;，而&#20165;依靠自&#23398;法律知&#35782;，&#26469;&#24110;助&#35768;多村民、&#27531;疾人士&#32500;&#25252; <b>...</b><br><div><cite>zh.wikipedia.org/zh-hk/<b>&#38472;光&#35802;</b></cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:3p2W6Hp0hegJ:http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3><a href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;ie=UTF-8&amp;source=univ&amp;tbm=vid&amp;tbo=u&amp;ei=9QO0TrW9CqGQiAKvkZVE&amp;sa=X&amp;oi=video_result_group&amp;ct=title&amp;resnum=2&amp;ved=0CBsQqwQwAQ">「<b>&#38472;光&#35802;</b>」的影片</a></h3><table class="ts" style="margin-top:-1px"><tr><td valign="top" colspan="1" width="290"><table class="ts"><tr><td valign="top" style="padding:7px 0 0;padding-right:8px"><a href="http://www.youtube.com/watch?v=Z2YB2EjRZso"><img src="http://img.youtube.com/vi/Z2YB2EjRZso/default.jpg?h=60&amp;w=80&amp;sigh=__lmY3uuTGAEIeHt1oYBPDNg1SixE=" alt="" align="left" border="1" height="60" width="80"></a></td><td valign="top" style="padding:5px 10px 0 0"><a href="http://www.youtube.com/watch?v=Z2YB2EjRZso">Free Cheng Guangcheng 1/5 <b>&#38472;光&#35802;</b>最新&#35270;&#39057;-被&#30417;控，&#26080;人身自由 <b>...</b></a><br><span class="f">12 分鐘 - 2011年2月9日<br>上傳者：vocntv</span><br><cite>www.youtube.com/watch?v=Z2YB2EjRZso</cite></td></tr></table></td><td valign="top" colspan="1" width="290"><table class="ts"><tr><td valign="top" style="padding:7px 0 0;padding-right:8px"><a href="http://www.youtube.com/watch?v=D6lnZqE57HQ"><img src="http://img.youtube.com/vi/D6lnZqE57HQ/default.jpg?h=60&amp;w=80&amp;sigh=__3Xo_TgfgZufGOH-VafXwwRh3nHQ=" alt="" align="left" border="1" height="60" width="80"></a></td><td valign="top" style="padding:5px 10px 0 0"><a href="http://www.youtube.com/watch?v=D6lnZqE57HQ">陳光誠被軟禁流出視頻（完整高清版） - YouTube</a><br><span class="f">62 分鐘 - 2011年2月13日<br>上傳者：chinasuntv</span><br><cite>www.youtube.com/watch?v=D6lnZqE57HQ</cite></td></tr></table></td></tr></table></li><li class="g"><h3 class="r"><a href="http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html" onmousedown="return hlprwt(this, 'http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html')">五网民探望<b>&#38472;光&#35802;</b>被劫&#21016;沙沙妙&#35273;遭&#22260;&#27572;&#24323;野外</a></h3><div class="s">2011年9月19日 <b>...</b> 山&#19996;&#20020;沂盲人&#32500;&#26435;人士<b>&#38472;光&#35802;</b>刑&#28385;出&#29425;一年后，和家人一直被禁止出&#38376;，家中被安&#35013;<br>  &#31363;听器，&#38376;外有看守，甚至&#36830;孩子上&#23398;的&#26435;利，也被&#21093;&#22842;。社&#20250;各 <b>...</b><br><div><cite>www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:-IG_DUJQzwAJ:http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87" onmousedown="return hlprwt(this, 'http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87')">网友&#35762;述探&#35775;<b>&#38472;光&#35802;</b>的&#32463;&#36807;| RFI</a></h3><div class="s">2011年10月6日 <b>...</b> 中&#22269;山&#19996;盲人&#32500;&#26435;人士<b>&#38472;光&#35802;</b>因&#20026;反&#23545;&#24403;地政府野&#34542;推行&#35745;划生育政策而被以<br>  莫&#39035;有的罪名&#38162;&#38107;入&#29425;，出&#29425;之后一年多&#26469;一直与其妻子与女儿一同 <b>...</b><br><div><cite>www.chinese.rfi.fr/中&#22269;/20111006-网友&#35762;述探&#35775;<b>&#38472;光&#35802;</b>的&#32463;&#36807;</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:aSkYGOMTIGQJ:http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml" onmousedown="return hlprwt(this, 'http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml')">BBC中文网- &#20004;岸三地- “看望<b>&#38472;光&#35802;</b>”活&#21160;得到&#24191;泛&#21709;&#24212;</a></h3><div class="s">2011年10月10日 <b>...</b> 由活&#21160;人士在微博上&#21457;起的网友自&#21457;看望盲人律&#24072;<b>&#38472;光&#35802;</b>的活&#21160;得到了&#24191;泛支持。<br>  &#36807;去一周，大&#32422;有20人&#35797;&#22270;&#38383;&#20851;，探望<b>&#38472;光&#35802;</b>及其家人。<br><div><cite>www.bbc.co.uk/.../111010_china_blind_lawyer.shtml</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:Qn5Yiw9KoKsJ:http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html" onmousedown="return hlprwt(this, 'http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html')"><b>&#38472;光&#35802;</b>夫&#22919;再遭&#27572;打-【<b>&#38472;光&#35802;</b>】</a></h3><div class="s">2011年2月22日 <b>...</b> 而&#22791;受各界&#20851;注的山&#19996;失明人士<b>&#38472;光&#35802;</b>境&#20917;十分&#24694;劣，香港的“中&#22269;&#32500;&#26435;律&#24072;&#20851;注&#32452;”<br>  &#25191;行秘&#20070;潘嘉&#20255;向本台表示，周一他&#20204;收到有&#20851;<b>&#38472;光&#35802;</b>的最新 <b>...</b><br><div><cite>www.aboluowang.com/.../<b>&#38472;光&#35802;</b>夫&#22919;再遭&#27572;打-119541.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:_CpW4aA4jWcJ:http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://china.dwnews.com/news/2011-06-16/57815292.html" onmousedown="return hlprwt(this, 'http://china.dwnews.com/news/2011-06-16/57815292.html')">&#20256;盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>遭暴力抄家_多&#32500;新&#38395;网</a></h3><div class="s">2011年6月16日 <b>...</b> 曾因抗拒&#20020;沂&#24403;地野&#34542;&#35745;划生育政策的盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>日前仍遭&#36719;禁在家，据<br>  网&#32476;&#20256;布的其妻子&#20146;&#31508;求救信&#26174;示，自2010年&#33719;&#37322;后<b>&#38472;光&#35802;</b>与其 <b>...</b><br><div><cite>china.dwnews.com/news/2011-06-16/57815292.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:fXh2l39LnFoJ:http://china.dwnews.com/news/2011-06-16/57815292.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://china.dwnews.com/news/2011-06-16/57815292.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://soundofhope.org/programs/162/200365-1.asp" onmousedown="return hlprwt(this, 'http://soundofhope.org/programs/162/200365-1.asp')">民&#20247;接力探&#35270;<b>&#38472;光&#35802;</b>周&#36793;居民被噤&#22768;</a></h3><div class="s">2011年10月8日 <b>...</b> 山&#19996;著名盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>，自2010年出&#29425;后即被&#24403;局&#30417;控，家中被安&#35013;&#25668;像&#22836;、<br>  手机屏蔽器、&#24378;光&#28783;，他和妻子被禁止外出，生活用品只能由 <b>...</b><br><div><cite>soundofhope.org/programs/162/200365-1.asp</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:IhhcftRml_8J:http://soundofhope.org/programs/162/200365-1.asp+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://soundofhope.org/programs/162/200365-1.asp+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://web.cenet.org.cn/upfile/74896.doc" onmousedown="return hlprwt(this, 'http://web.cenet.org.cn/upfile/74896.doc')"><b>&#38472;光&#35802;</b>,&quot;以法律&#20026;&#19994;&quot;的盲者</a></h3><div class="s"><b>&#38472;光&#35802;</b>,&quot;以法律&#20026;&#19994;&quot;的盲者 &#21457;信站： 燕南社&#21306;(http://bbs.yannan.cn). 此文&#36716;自作者<br>  的博客： &#36825;是我今年初采&#35775;的一&#20010;人物，最近，他因&#20026;揭露沂南&#21439;&#35745;生工作的野&#34542; <b>...</b><br><div><cite>web.cenet.org.cn/upfile/74896.doc</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:KH0kMRQIjZQJ:http://web.cenet.org.cn/upfile/74896.doc+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://web.cenet.org.cn/upfile/74896.doc+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="/images?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;oi=image_result_group&amp;sa=X">「<b>&#38472;光&#35802;</b>」的圖片搜尋結果</a></h3><br><div><a href="/imgres?imgurl=http://jiuyuan110.files.wordpress.com/2011/10/chen.jpg&amp;imgrefurl=http://jiuyuan110.wordpress.com/2011/10/05/49/&amp;h=395&amp;w=300&amp;sz=24&amp;tbnid=Bm7Ei8HBugK4JM:&amp;tbnh=124&amp;tbnw=94&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__X4aTZjFZl_5I3JVy_UTlnePbBHY=&amp;sa=X&amp;ei=9QO0TrW9CqGQiAKvkZVE&amp;ved=0CDUQ9QEwCg"><img src="/images?q=tbn:ANd9GcRvS7CH_2aF0kT3rc_KVj8Lp1isdIY0Umaon0Vh_WI2fhTX0AA2TJIZaFA" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="59"></a><a href="/imgres?imgurl=http://www.asianews.it/files/img/CHINA_-_Chen_guangcheng_and_family.jpg&amp;imgrefurl=http://www.asianews.it/news-zh/%25E8%25AD%25A6%25E5%25AF%259F%25E6%25AE%25B4%25E6%2589%2593%25E5%25A4%25B1%25E6%2598%258E%25E7%25BB%25B4%25E6%259D%2583%25E4%25BA%25BA%25E5%25A3%25AB%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%25E5%258F%258A%25E5%2585%25B6%25E5%25A6%25BB-20747.html&amp;h=341&amp;w=455&amp;sz=38&amp;tbnid=NU0b-GFtQngMoM:&amp;tbnh=96&amp;tbnw=128&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__6T7uVOZ1jK9w5u9oczpMxebHRUw=&amp;sa=X&amp;ei=9QO0TrW9CqGQiAKvkZVE&amp;ved=0CDcQ9QEwCw"><img src="/images?q=tbn:ANd9GcRfGcVRA2438LH_j3lBlLRT-sOmxZtWbvpi3fawc0NJYiPJCFHMXSOS8Q" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="104"></a><a href="/imgres?imgurl=http://4.bp.blogspot.com/_4hY1PX47w4U/TJSdavsLHnI/AAAAAAAAAIc/pvxq4gQVfNc/s1600/%E7%BB%B4%E6%9D%83%E8%8B%B1%E9%9B%84%E9%99%88%E5%85%89%E8%AF%9A.jpg&amp;imgrefurl=http://chenqitang.blogspot.com/2010/09/blog-post_18.html&amp;h=530&amp;w=650&amp;sz=56&amp;tbnid=RuVsPKv-ZP7k2M:&amp;tbnh=112&amp;tbnw=137&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__DvDHsAlmVHTkT7rasnP4oc9YFjA=&amp;sa=X&amp;ei=9QO0TrW9CqGQiAKvkZVE&amp;ved=0CDkQ9QEwDA"><img src="/images?q=tbn:ANd9GcRWDFzcXaiM9sjjA9mZlFyR7S3-LfMdXDSerW-l4fF9NxVdKt84n7K8iQ" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="95"></a><a href="/imgres?imgurl=http://m1.aboluowang.com/news/data/uploadfile/200804/20080410224225317.jpg&amp;imgrefurl=http://www.aboluowang.com/news/data/2008/0410/article_45913.html&amp;h=399&amp;w=600&amp;sz=24&amp;tbnid=nRF3mwtYQhWixM:&amp;tbnh=90&amp;tbnw=135&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__uMkIyjzGwHf3e7M7BNWh_9i1y7A=&amp;sa=X&amp;ei=9QO0TrW9CqGQiAKvkZVE&amp;ved=0CDsQ9QEwDQ"><img src="/images?q=tbn:ANd9GcRaSQSjmwIMtw_HoZmeWtrTh5dL36QB6a6llUw02XQQvAva1cgojY9Srzw" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="117"></a><a href="/imgres?imgurl=http://blog.boxun.com/blogfile/caichu/san6.jpg&amp;imgrefurl=http://blog.boxun.com/hero/caichu/183_1.shtml&amp;h=299&amp;w=400&amp;sz=26&amp;tbnid=g3_TRJt4S8OBgM:&amp;tbnh=93&amp;tbnw=124&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__qocVWrVBXTZZTbMa4xfxZrEmjk0=&amp;sa=X&amp;ei=9QO0TrW9CqGQiAKvkZVE&amp;ved=0CD0Q9QEwDg"><img src="/images?q=tbn:ANd9GcSZkt7ibBEELqx9elHDc9on7h9KVTz-finZuHgCdFme4iqtNipNJYtfBT8" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="104"></a></div></li></ol></div></div></div><div id="foot"><table align="center" border="0" cellpadding="0" cellspacing="0" id="nav"><tr valign="top"><td class="b" align="left"><span class="csb ch" style="background-position:-26px 0;width:18px"></span><b></b></td><td><span class="csb ch" style="background-position:-44px 0;width:16px"></span><b>1</b></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=9QO0TrW9CqGQiAKvkZVE&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=10&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>2</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=9QO0TrW9CqGQiAKvkZVE&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=20&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>3</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=9QO0TrW9CqGQiAKvkZVE&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=30&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>4</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=9QO0TrW9CqGQiAKvkZVE&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=40&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>5</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=9QO0TrW9CqGQiAKvkZVE&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=50&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>6</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=9QO0TrW9CqGQiAKvkZVE&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=60&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>7</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=9QO0TrW9CqGQiAKvkZVE&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=70&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>8</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=9QO0TrW9CqGQiAKvkZVE&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=80&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>9</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=9QO0TrW9CqGQiAKvkZVE&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=90&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>10</a></td><td class="b" style="text-align:left"><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=9QO0TrW9CqGQiAKvkZVE&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=10&amp;sa=N" style="text-align:left"><span class="csb ch" style="background-position:-76px 0;width:66px"></span><span style="display:block;margin-left:53px"><b>下一頁</b></span></a></td></tr></table><div><div style="margin-top:22px"><form method="GET" action="/search"><table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-bottom:1px solid #e7e7e7;padding:8px 0 0;position:relative"><tr><td class="lst-td" width="100%" valign="bottom"><div style="position:relative;zoom:1"><input autocomplete="off" class="lst" type="text" name="q" maxlength="2048" value="&#38472;光&#35802;" title="搜尋"></div></td><td><div class="ds"><div class="lsbb"><input type="submit" name="btnG" class="lsb" value="搜尋"></div></div></td></tr></table><input type="hidden" name="hl" value="zh-TW"></form></div><p id="bfl" class="flc" style="margin:6px 0 0;text-align:center"><a href="/support/websearch/bin/answer.py?answer=134479&amp;hl=zh-TW">搜尋說明</a></p></div><div id="fll" class="flc" style="margin:19px auto 19px auto;text-align:center"><a href="/"> Google 首頁 </a> <a href="
-         /intl/zh-TW/ads/">廣告計劃</a> <a href="/intl/zh-TW/privacy.html">隱私權政策</a> <a href="/intl/zh-TW/about.html">Google 完全手冊</a></div></div></td><td valign="top"></td></tr></table><script src="/extern_js/f/CgV6aC1UVxICaGsgDSswWjgALCswDjgALCswCjgAmgICaGUsKzAYOAAsgAIEkAJW/GEqW3SC_47E.js"></script><script type="text/javascript">var form=document.gbqf||document.gs||document.f||document.gs;google.ac.i(form,form.q,'','&#38472;光&#35802;','',{"sw":1,"hl":1,"d":1,"o":1,"vc":-3},'serp',{"dh":true,"exp":"kjrmc","host":"google.com.hk","msgs":{"lcky":"好手氣","lml":"瞭解詳情","psrc":"已從您的「<a href=\"/history\">網頁記錄</a>」中移除這筆搜尋記錄","psrl":"移除","srch":"Google 搜尋"}})</script></body></html>getResultCount 1
-getResultCount 2
-getResultCount 3, tmp=1,560,000</b>項符合<b>&#38472;光&#35802;</b>的查詢結果，以下是第 <b>1</b>-<b>10</b>項。</div></div></td><td></td></tr><tr><td valign="top" id="leftnav" style="padding:4px"><div id="modeselector" style="padding-bottom:4px"><ul><li class="mitem msel"><span class="micon" style="
-          background-pogetResultCount 4
-count=1560000
-to send to http://www.shiaima.com/cgc/saveCount.php?count=1560000
-sql=INSERT INTO CGC_SEARCH_OVERVIEW(UPDATETIME,RESULTCOUNT) VALUES (1320420341, 1560000)time flies
 30712 bytes retrieved
 
 <!doctype html><html><head><meta http-equiv="Content-Type" content="text/html; charset=Big5"><title>&#38472;光&#35802; - Google 搜尋</title><style>#gbar,#guser{font-size:13px;padding-top:1px !important}#gbar{height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}</style><style>
@@ -849,11 +420,14 @@ sql=INSERT INTO CGC_SEARCH_OVERVIEW(UPDATETIME,RESULTCOUNT) VALUES (1320420341, 
     <body bgcolor="#ffffff" topmargin="3" marginheight="3" marginwidth="0"
   ><div id=gbar><nobr><b class=gb1>所有網頁</b> <a class=gb1 href="http://www.google.com.hk/search?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&tbm=isch&source=og&sa=N&tab=wi">圖片</a> <a class=gb1 href="http://www.google.com.hk/search?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&tbo=u&tbm=vid&source=og&sa=N&tab=wv">影片</a> <a class=gb1 href="http://maps.google.com.hk/maps?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&sa=N&tab=wl">地圖</a> <a class=gb1 href="http://www.google.com.hk/search?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&tbo=u&tbm=nws&source=og&sa=N&tab=wn">新聞</a> <a class=gb1 href="http://translate.google.com.hk/?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&sa=N&tab=wT">翻譯</a> <a class=gb1 href="https://mail.google.com/mail/?hl=zh-TW&tab=wm">Gmail</a> <a class=gb1 style="text-decoration:none" href="http://www.google.com.hk/intl/zh-TW/options/"><u>更多</u> &raquo;</a></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.com/history/optout?hl=zh-TW" class=gb4>網頁記錄</a> | <a  href="/preferences?hl=zh-TW" class=gb4>設定</a> | <a id=gb_70 href="https://accounts.google.com/ServiceLogin?hl=zh-TW&continue=http://www.google.com.hk/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A" class=gb4>登入</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div><br clear="all"><table border="0" cellpadding="0" cellspacing="0" id="mn" style="position:relative"><tr><td rowspan="2" valign="top" width="157"><h1><a href="/webhp?hl=" id="logo" title="Go to Google Home"><img src="/images/nav_logo_hp2.png" alt="" height="222" style="border:0" width="167"></a></h1></td><td valign="top" style="padding-left:9px" width="559"><form name="gs" id="tsf" method="GET" action="/search" style="display:block;margin:0;background:none"><table border="0" cellpadding="0" cellspacing="0" id="sbhost" style="border-bottom:1px solid #e7e7e7;margin-top:18px;position:relative"><tr><td class="lst-td" width="100%" valign="bottom" style=""><div style="position:relative;zoom:1"><input autocomplete="off" class="lst" type="text" name="q" maxlength="2048" title="搜尋" value="&#38472;光&#35802;"></div></td><td><div class="ds"><div class="lsbb"><input type="submit" name="btnG" class="lsb" value="搜尋"></div></div></td></tr></table></form></td><td style="padding-left:5px" width="259"></td></tr><tr><td width="100%"><div id="subform_ctrl"><div style="float:right"><a class="fl" href="/advanced_search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;ie=UTF-8">進階搜尋</a></div><div>約有<b>1,560,000</b>項符合<b>&#38472;光&#35802;</b>的查詢結果，以下是第 <b>1</b>-<b>10</b>項。</div></div></td><td></td></tr><tr><td valign="top" id="leftnav" style="padding:4px"><div id="modeselector" style="padding-bottom:4px"><ul><li class="mitem msel"><span class="micon" style="
           background-position:-20px -132px
-        "></span>全部</li></ul><a id="showmodes" class="q" href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;prmdo=1&amp;sa=X"><span class="micon"></span><span class="msm">更多</span></a></div><div class="lnsec"><h2 class="hd">Search Options</h2><ul id="tbd" class="med"></ul><a href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;ie=UTF-8&amp;tbo=1" class="q" style="display:block;margin-bottom:16px">顯示選項...</a></div></td><td valign="top"><div id="center_col"><div id="tbbc" style="background:#ebeff9;padding:8px;margin-bottom:4px"><b>網路工具</b></div><div id="res"><div id="ires"><ol><li class="g"><h3 class="r"><a href="http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A" onmousedown="return hlprwt(this, 'http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A')"><b>&#38472;光&#35802;</b>- &#32500;基百科，自由的百科全&#20070;</a></h3><div class="s"><b>&#38472;光&#35802;</b>（1971年11月12日－），中&#22269;山&#19996;&#20020;沂人，因幼&#26102;生病&#23548;致&#21452;眼失明。<b>&#38472;光&#35802;</b><br>  &#27809;有&#32463;&#36807;法律的&#19987;&#19994;培&#35757;，而&#20165;依靠自&#23398;法律知&#35782;，&#26469;&#24110;助&#35768;多村民、&#27531;疾人士&#32500;&#25252; <b>...</b><br><div><cite>zh.wikipedia.org/zh-hk/<b>&#38472;光&#35802;</b></cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:3p2W6Hp0hegJ:http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3><a href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;ie=UTF-8&amp;source=univ&amp;tbm=vid&amp;tbo=u&amp;ei=_wO0TvOnFaSoiALl8fCcAg&amp;sa=X&amp;oi=video_result_group&amp;ct=title&amp;resnum=2&amp;ved=0CBsQqwQwAQ">「<b>&#38472;光&#35802;</b>」的影片</a></h3><table class="ts" style="margin-top:-1px"><tr><td valign="top" colspan="1" width="290"><table class="ts"><tr><td valign="top" style="padding:7px 0 0;padding-right:8px"><a href="http://www.youtube.com/watch?v=Z2YB2EjRZso"><img src="http://img.youtube.com/vi/Z2YB2EjRZso/default.jpg?h=60&amp;w=80&amp;sigh=__lmY3uuTGAEIeHt1oYBPDNg1SixE=" alt="" align="left" border="1" height="60" width="80"></a></td><td valign="top" style="padding:5px 10px 0 0"><a href="http://www.youtube.com/watch?v=Z2YB2EjRZso">Free Cheng Guangcheng 1/5 <b>&#38472;光&#35802;</b>最新&#35270;&#39057;-被&#30417;控，&#26080;人身自由 <b>...</b></a><br><span class="f">12 分鐘 - 2011年2月9日<br>上傳者：vocntv</span><br><cite>www.youtube.com/watch?v=Z2YB2EjRZso</cite></td></tr></table></td><td valign="top" colspan="1" width="290"><table class="ts"><tr><td valign="top" style="padding:7px 0 0;padding-right:8px"><a href="http://www.youtube.com/watch?v=D6lnZqE57HQ"><img src="http://img.youtube.com/vi/D6lnZqE57HQ/default.jpg?h=60&amp;w=80&amp;sigh=__3Xo_TgfgZufGOH-VafXwwRh3nHQ=" alt="" align="left" border="1" height="60" width="80"></a></td><td valign="top" style="padding:5px 10px 0 0"><a href="http://www.youtube.com/watch?v=D6lnZqE57HQ">陳光誠被軟禁流出視頻（完整高清版） - YouTube</a><br><span class="f">62 分鐘 - 2011年2月13日<br>上傳者：chinasuntv</span><br><cite>www.youtube.com/watch?v=D6lnZqE57HQ</cite></td></tr></table></td></tr></table></li><li class="g"><h3 class="r"><a href="http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html" onmousedown="return hlprwt(this, 'http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html')">五网民探望<b>&#38472;光&#35802;</b>被劫&#21016;沙沙妙&#35273;遭&#22260;&#27572;&#24323;野外</a></h3><div class="s">2011年9月19日 <b>...</b> 山&#19996;&#20020;沂盲人&#32500;&#26435;人士<b>&#38472;光&#35802;</b>刑&#28385;出&#29425;一年后，和家人一直被禁止出&#38376;，家中被安&#35013;<br>  &#31363;听器，&#38376;外有看守，甚至&#36830;孩子上&#23398;的&#26435;利，也被&#21093;&#22842;。社&#20250;各 <b>...</b><br><div><cite>www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:-IG_DUJQzwAJ:http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87" onmousedown="return hlprwt(this, 'http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87')">网友&#35762;述探&#35775;<b>&#38472;光&#35802;</b>的&#32463;&#36807;| RFI</a></h3><div class="s">2011年10月6日 <b>...</b> 中&#22269;山&#19996;盲人&#32500;&#26435;人士<b>&#38472;光&#35802;</b>因&#20026;反&#23545;&#24403;地政府野&#34542;推行&#35745;划生育政策而被以<br>  莫&#39035;有的罪名&#38162;&#38107;入&#29425;，出&#29425;之后一年多&#26469;一直与其妻子与女儿一同 <b>...</b><br><div><cite>www.chinese.rfi.fr/中&#22269;/20111006-网友&#35762;述探&#35775;<b>&#38472;光&#35802;</b>的&#32463;&#36807;</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:aSkYGOMTIGQJ:http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml" onmousedown="return hlprwt(this, 'http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml')">BBC中文网- &#20004;岸三地- “看望<b>&#38472;光&#35802;</b>”活&#21160;得到&#24191;泛&#21709;&#24212;</a></h3><div class="s">2011年10月10日 <b>...</b> 由活&#21160;人士在微博上&#21457;起的网友自&#21457;看望盲人律&#24072;<b>&#38472;光&#35802;</b>的活&#21160;得到了&#24191;泛支持。<br>  &#36807;去一周，大&#32422;有20人&#35797;&#22270;&#38383;&#20851;，探望<b>&#38472;光&#35802;</b>及其家人。<br><div><cite>www.bbc.co.uk/.../111010_china_blind_lawyer.shtml</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:Qn5Yiw9KoKsJ:http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html" onmousedown="return hlprwt(this, 'http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html')"><b>&#38472;光&#35802;</b>夫&#22919;再遭&#27572;打-【<b>&#38472;光&#35802;</b>】</a></h3><div class="s">2011年2月22日 <b>...</b> 而&#22791;受各界&#20851;注的山&#19996;失明人士<b>&#38472;光&#35802;</b>境&#20917;十分&#24694;劣，香港的“中&#22269;&#32500;&#26435;律&#24072;&#20851;注&#32452;”<br>  &#25191;行秘&#20070;潘嘉&#20255;向本台表示，周一他&#20204;收到有&#20851;<b>&#38472;光&#35802;</b>的最新 <b>...</b><br><div><cite>www.aboluowang.com/.../<b>&#38472;光&#35802;</b>夫&#22919;再遭&#27572;打-119541.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:_CpW4aA4jWcJ:http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://china.dwnews.com/news/2011-06-16/57815292.html" onmousedown="return hlprwt(this, 'http://china.dwnews.com/news/2011-06-16/57815292.html')">&#20256;盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>遭暴力抄家_多&#32500;新&#38395;网</a></h3><div class="s">2011年6月16日 <b>...</b> 曾因抗拒&#20020;沂&#24403;地野&#34542;&#35745;划生育政策的盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>日前仍遭&#36719;禁在家，据<br>  网&#32476;&#20256;布的其妻子&#20146;&#31508;求救信&#26174;示，自2010年&#33719;&#37322;后<b>&#38472;光&#35802;</b>与其 <b>...</b><br><div><cite>china.dwnews.com/news/2011-06-16/57815292.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:fXh2l39LnFoJ:http://china.dwnews.com/news/2011-06-16/57815292.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://china.dwnews.com/news/2011-06-16/57815292.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://soundofhope.org/programs/162/200365-1.asp" onmousedown="return hlprwt(this, 'http://soundofhope.org/programs/162/200365-1.asp')">民&#20247;接力探&#35270;<b>&#38472;光&#35802;</b>周&#36793;居民被噤&#22768;</a></h3><div class="s">2011年10月8日 <b>...</b> 山&#19996;著名盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>，自2010年出&#29425;后即被&#24403;局&#30417;控，家中被安&#35013;&#25668;像&#22836;、<br>  手机屏蔽器、&#24378;光&#28783;，他和妻子被禁止外出，生活用品只能由 <b>...</b><br><div><cite>soundofhope.org/programs/162/200365-1.asp</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:IhhcftRml_8J:http://soundofhope.org/programs/162/200365-1.asp+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://soundofhope.org/programs/162/200365-1.asp+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://web.cenet.org.cn/upfile/74896.doc" onmousedown="return hlprwt(this, 'http://web.cenet.org.cn/upfile/74896.doc')"><b>&#38472;光&#35802;</b>,&quot;以法律&#20026;&#19994;&quot;的盲者</a></h3><div class="s"><b>&#38472;光&#35802;</b>,&quot;以法律&#20026;&#19994;&quot;的盲者 &#21457;信站： 燕南社&#21306;(http://bbs.yannan.cn). 此文&#36716;自作者<br>  的博客： &#36825;是我今年初采&#35775;的一&#20010;人物，最近，他因&#20026;揭露沂南&#21439;&#35745;生工作的野&#34542; <b>...</b><br><div><cite>web.cenet.org.cn/upfile/74896.doc</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:KH0kMRQIjZQJ:http://web.cenet.org.cn/upfile/74896.doc+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://web.cenet.org.cn/upfile/74896.doc+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="/images?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;oi=image_result_group&amp;sa=X">「<b>&#38472;光&#35802;</b>」的圖片搜尋結果</a></h3><br><div><a href="/imgres?imgurl=http://jiuyuan110.files.wordpress.com/2011/10/chen.jpg&amp;imgrefurl=http://jiuyuan110.wordpress.com/2011/10/05/49/&amp;h=395&amp;w=300&amp;sz=24&amp;tbnid=Bm7Ei8HBugK4JM:&amp;tbnh=124&amp;tbnw=94&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__X4aTZjFZl_5I3JVy_UTlnePbBHY=&amp;sa=X&amp;ei=_wO0TvOnFaSoiALl8fCcAg&amp;ved=0CDUQ9QEwCg"><img src="/images?q=tbn:ANd9GcRvS7CH_2aF0kT3rc_KVj8Lp1isdIY0Umaon0Vh_WI2fhTX0AA2TJIZaFA" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="59"></a><a href="/imgres?imgurl=http://www.asianews.it/files/img/CHINA_-_Chen_guangcheng_and_family.jpg&amp;imgrefurl=http://www.asianews.it/news-zh/%25E8%25AD%25A6%25E5%25AF%259F%25E6%25AE%25B4%25E6%2589%2593%25E5%25A4%25B1%25E6%2598%258E%25E7%25BB%25B4%25E6%259D%2583%25E4%25BA%25BA%25E5%25A3%25AB%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%25E5%258F%258A%25E5%2585%25B6%25E5%25A6%25BB-20747.html&amp;h=341&amp;w=455&amp;sz=38&amp;tbnid=NU0b-GFtQngMoM:&amp;tbnh=96&amp;tbnw=128&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__6T7uVOZ1jK9w5u9oczpMxebHRUw=&amp;sa=X&amp;ei=_wO0TvOnFaSoiALl8fCcAg&amp;ved=0CDcQ9QEwCw"><img src="/images?q=tbn:ANd9GcRfGcVRA2438LH_j3lBlLRT-sOmxZtWbvpi3fawc0NJYiPJCFHMXSOS8Q" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="104"></a><a href="/imgres?imgurl=http://4.bp.blogspot.com/_4hY1PX47w4U/TJSdavsLHnI/AAAAAAAAAIc/pvxq4gQVfNc/s1600/%E7%BB%B4%E6%9D%83%E8%8B%B1%E9%9B%84%E9%99%88%E5%85%89%E8%AF%9A.jpg&amp;imgrefurl=http://chenqitang.blogspot.com/2010/09/blog-post_18.html&amp;h=530&amp;w=650&amp;sz=56&amp;tbnid=RuVsPKv-ZP7k2M:&amp;tbnh=112&amp;tbnw=137&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__DvDHsAlmVHTkT7rasnP4oc9YFjA=&amp;sa=X&amp;ei=_wO0TvOnFaSoiALl8fCcAg&amp;ved=0CDkQ9QEwDA"><img src="/images?q=tbn:ANd9GcRWDFzcXaiM9sjjA9mZlFyR7S3-LfMdXDSerW-l4fF9NxVdKt84n7K8iQ" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="95"></a><a href="/imgres?imgurl=http://m1.aboluowang.com/news/data/uploadfile/200804/20080410224225317.jpg&amp;imgrefurl=http://www.aboluowang.com/news/data/2008/0410/article_45913.html&amp;h=399&amp;w=600&amp;sz=24&amp;tbnid=nRF3mwtYQhWixM:&amp;tbnh=90&amp;tbnw=135&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__uMkIyjzGwHf3e7M7BNWh_9i1y7A=&amp;sa=X&amp;ei=_wO0TvOnFaSoiALl8fCcAg&amp;ved=0CDsQ9QEwDQ"><img src="/images?q=tbn:ANd9GcRaSQSjmwIMtw_HoZmeWtrTh5dL36QB6a6llUw02XQQvAva1cgojY9Srzw" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="117"></a><a href="/imgres?imgurl=http://blog.boxun.com/blogfile/caichu/san6.jpg&amp;imgrefurl=http://blog.boxun.com/hero/caichu/183_1.shtml&amp;h=299&amp;w=400&amp;sz=26&amp;tbnid=g3_TRJt4S8OBgM:&amp;tbnh=93&amp;tbnw=124&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__qocVWrVBXTZZTbMa4xfxZrEmjk0=&amp;sa=X&amp;ei=_wO0TvOnFaSoiALl8fCcAg&amp;ved=0CD0Q9QEwDg"><img src="/images?q=tbn:ANd9GcSZkt7ibBEELqx9elHDc9on7h9KVTz-finZuHgCdFme4iqtNipNJYtfBT8" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="104"></a></div></li></ol></div></div></div><div id="foot"><table align="center" border="0" cellpadding="0" cellspacing="0" id="nav"><tr valign="top"><td class="b" align="left"><span class="csb ch" style="background-position:-26px 0;width:18px"></span><b></b></td><td><span class="csb ch" style="background-position:-44px 0;width:16px"></span><b>1</b></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=_wO0TvOnFaSoiALl8fCcAg&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=10&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>2</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=_wO0TvOnFaSoiALl8fCcAg&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=20&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>3</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=_wO0TvOnFaSoiALl8fCcAg&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=30&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>4</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=_wO0TvOnFaSoiALl8fCcAg&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=40&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>5</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=_wO0TvOnFaSoiALl8fCcAg&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=50&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>6</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=_wO0TvOnFaSoiALl8fCcAg&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=60&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>7</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=_wO0TvOnFaSoiALl8fCcAg&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=70&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>8</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=_wO0TvOnFaSoiALl8fCcAg&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=80&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>9</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=_wO0TvOnFaSoiALl8fCcAg&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=90&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>10</a></td><td class="b" style="text-align:left"><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=_wO0TvOnFaSoiALl8fCcAg&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=10&amp;sa=N" style="text-align:left"><span class="csb ch" style="background-position:-76px 0;width:66px"></span><span style="display:block;margin-left:53px"><b>下一頁</b></span></a></td></tr></table><div><div style="margin-top:22px"><form method="GET" action="/search"><table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-bottom:1px solid #e7e7e7;padding:8px 0 0;position:relative"><tr><td class="lst-td" width="100%" valign="bottom"><div style="position:relative;zoom:1"><input autocomplete="off" class="lst" type="text" name="q" maxlength="2048" value="&#38472;光&#35802;" title="搜尋"></div></td><td><div class="ds"><div class="lsbb"><input type="submit" name="btnG" class="lsb" value="搜尋"></div></div></td></tr></table><input type="hidden" name="hl" value="zh-TW"></form></div><p id="bfl" class="flc" style="margin:6px 0 0;text-align:center"><a href="/support/websearch/bin/answer.py?answer=134479&amp;hl=zh-TW">搜尋說明</a></p></div><div id="fll" class="flc" style="margin:19px auto 19px auto;text-align:center"><a href="/"> Google 首頁 </a> <a href="
+        "></span>全部</li></ul><a id="showmodes" class="q" href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;prmdo=1&amp;sa=X"><span class="micon"></span><span class="msm">更多</span></a></div><div class="lnsec"><h2 class="hd">Search Options</h2><ul id="tbd" class="med"></ul><a href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;ie=UTF-8&amp;tbo=1" class="q" style="display:block;margin-bottom:16px">顯示選項...</a></div></td><td valign="top"><div id="center_col"><div id="tbbc" style="background:#ebeff9;padding:8px;margin-bottom:4px"><b>網路工具</b></div><div id="res"><div id="ires"><ol><li class="g"><h3 class="r"><a href="http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A" onmousedown="return hlprwt(this, 'http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A')"><b>&#38472;光&#35802;</b>- &#32500;基百科，自由的百科全&#20070;</a></h3><div class="s"><b>&#38472;光&#35802;</b>（1971年11月12日－），中&#22269;山&#19996;&#20020;沂人，因幼&#26102;生病&#23548;致&#21452;眼失明。<b>&#38472;光&#35802;</b><br>  &#27809;有&#32463;&#36807;法律的&#19987;&#19994;培&#35757;，而&#20165;依靠自&#23398;法律知&#35782;，&#26469;&#24110;助&#35768;多村民、&#27531;疾人士&#32500;&#25252; <b>...</b><br><div><cite>zh.wikipedia.org/zh-hk/<b>&#38472;光&#35802;</b></cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:3p2W6Hp0hegJ:http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3><a href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;ie=UTF-8&amp;source=univ&amp;tbm=vid&amp;tbo=u&amp;ei=qwS0ToOpNoqbiALv_7ieDQ&amp;sa=X&amp;oi=video_result_group&amp;ct=title&amp;resnum=2&amp;ved=0CBsQqwQwAQ">「<b>&#38472;光&#35802;</b>」的影片</a></h3><table class="ts" style="margin-top:-1px"><tr><td valign="top" colspan="1" width="290"><table class="ts"><tr><td valign="top" style="padding:7px 0 0;padding-right:8px"><a href="http://www.youtube.com/watch?v=Z2YB2EjRZso"><img src="http://img.youtube.com/vi/Z2YB2EjRZso/default.jpg?h=60&amp;w=80&amp;sigh=__lmY3uuTGAEIeHt1oYBPDNg1SixE=" alt="" align="left" border="1" height="60" width="80"></a></td><td valign="top" style="padding:5px 10px 0 0"><a href="http://www.youtube.com/watch?v=Z2YB2EjRZso">Free Cheng Guangcheng 1/5 <b>&#38472;光&#35802;</b>最新&#35270;&#39057;-被&#30417;控，&#26080;人身自由 <b>...</b></a><br><span class="f">12 分鐘 - 2011年2月9日<br>上傳者：vocntv</span><br><cite>www.youtube.com/watch?v=Z2YB2EjRZso</cite></td></tr></table></td><td valign="top" colspan="1" width="290"><table class="ts"><tr><td valign="top" style="padding:7px 0 0;padding-right:8px"><a href="http://www.youtube.com/watch?v=D6lnZqE57HQ"><img src="http://img.youtube.com/vi/D6lnZqE57HQ/default.jpg?h=60&amp;w=80&amp;sigh=__3Xo_TgfgZufGOH-VafXwwRh3nHQ=" alt="" align="left" border="1" height="60" width="80"></a></td><td valign="top" style="padding:5px 10px 0 0"><a href="http://www.youtube.com/watch?v=D6lnZqE57HQ">陳光誠被軟禁流出視頻（完整高清版） - YouTube</a><br><span class="f">62 分鐘 - 2011年2月13日<br>上傳者：chinasuntv</span><br><cite>www.youtube.com/watch?v=D6lnZqE57HQ</cite></td></tr></table></td></tr></table></li><li class="g"><h3 class="r"><a href="http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html" onmousedown="return hlprwt(this, 'http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html')">五网民探望<b>&#38472;光&#35802;</b>被劫&#21016;沙沙妙&#35273;遭&#22260;&#27572;&#24323;野外</a></h3><div class="s">2011年9月19日 <b>...</b> 山&#19996;&#20020;沂盲人&#32500;&#26435;人士<b>&#38472;光&#35802;</b>刑&#28385;出&#29425;一年后，和家人一直被禁止出&#38376;，家中被安&#35013;<br>  &#31363;听器，&#38376;外有看守，甚至&#36830;孩子上&#23398;的&#26435;利，也被&#21093;&#22842;。社&#20250;各 <b>...</b><br><div><cite>www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:-IG_DUJQzwAJ:http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87" onmousedown="return hlprwt(this, 'http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87')">网友&#35762;述探&#35775;<b>&#38472;光&#35802;</b>的&#32463;&#36807;| RFI</a></h3><div class="s">2011年10月6日 <b>...</b> 中&#22269;山&#19996;盲人&#32500;&#26435;人士<b>&#38472;光&#35802;</b>因&#20026;反&#23545;&#24403;地政府野&#34542;推行&#35745;划生育政策而被以<br>  莫&#39035;有的罪名&#38162;&#38107;入&#29425;，出&#29425;之后一年多&#26469;一直与其妻子与女儿一同 <b>...</b><br><div><cite>www.chinese.rfi.fr/中&#22269;/20111006-网友&#35762;述探&#35775;<b>&#38472;光&#35802;</b>的&#32463;&#36807;</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:aSkYGOMTIGQJ:http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml" onmousedown="return hlprwt(this, 'http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml')">BBC中文网- &#20004;岸三地- “看望<b>&#38472;光&#35802;</b>”活&#21160;得到&#24191;泛&#21709;&#24212;</a></h3><div class="s">2011年10月10日 <b>...</b> 由活&#21160;人士在微博上&#21457;起的网友自&#21457;看望盲人律&#24072;<b>&#38472;光&#35802;</b>的活&#21160;得到了&#24191;泛支持。<br>  &#36807;去一周，大&#32422;有20人&#35797;&#22270;&#38383;&#20851;，探望<b>&#38472;光&#35802;</b>及其家人。<br><div><cite>www.bbc.co.uk/.../111010_china_blind_lawyer.shtml</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:Qn5Yiw9KoKsJ:http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html" onmousedown="return hlprwt(this, 'http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html')"><b>&#38472;光&#35802;</b>夫&#22919;再遭&#27572;打-【<b>&#38472;光&#35802;</b>】</a></h3><div class="s">2011年2月22日 <b>...</b> 而&#22791;受各界&#20851;注的山&#19996;失明人士<b>&#38472;光&#35802;</b>境&#20917;十分&#24694;劣，香港的“中&#22269;&#32500;&#26435;律&#24072;&#20851;注&#32452;”<br>  &#25191;行秘&#20070;潘嘉&#20255;向本台表示，周一他&#20204;收到有&#20851;<b>&#38472;光&#35802;</b>的最新 <b>...</b><br><div><cite>www.aboluowang.com/.../<b>&#38472;光&#35802;</b>夫&#22919;再遭&#27572;打-119541.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:_CpW4aA4jWcJ:http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://china.dwnews.com/news/2011-06-16/57815292.html" onmousedown="return hlprwt(this, 'http://china.dwnews.com/news/2011-06-16/57815292.html')">&#20256;盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>遭暴力抄家_多&#32500;新&#38395;网</a></h3><div class="s">2011年6月16日 <b>...</b> 曾因抗拒&#20020;沂&#24403;地野&#34542;&#35745;划生育政策的盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>日前仍遭&#36719;禁在家，据<br>  网&#32476;&#20256;布的其妻子&#20146;&#31508;求救信&#26174;示，自2010年&#33719;&#37322;后<b>&#38472;光&#35802;</b>与其 <b>...</b><br><div><cite>china.dwnews.com/news/2011-06-16/57815292.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:fXh2l39LnFoJ:http://china.dwnews.com/news/2011-06-16/57815292.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://china.dwnews.com/news/2011-06-16/57815292.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://soundofhope.org/programs/162/200365-1.asp" onmousedown="return hlprwt(this, 'http://soundofhope.org/programs/162/200365-1.asp')">民&#20247;接力探&#35270;<b>&#38472;光&#35802;</b>周&#36793;居民被噤&#22768;</a></h3><div class="s">2011年10月8日 <b>...</b> 山&#19996;著名盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>，自2010年出&#29425;后即被&#24403;局&#30417;控，家中被安&#35013;&#25668;像&#22836;、<br>  手机屏蔽器、&#24378;光&#28783;，他和妻子被禁止外出，生活用品只能由 <b>...</b><br><div><cite>soundofhope.org/programs/162/200365-1.asp</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:IhhcftRml_8J:http://soundofhope.org/programs/162/200365-1.asp+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://soundofhope.org/programs/162/200365-1.asp+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://web.cenet.org.cn/upfile/74896.doc" onmousedown="return hlprwt(this, 'http://web.cenet.org.cn/upfile/74896.doc')"><b>&#38472;光&#35802;</b>,&quot;以法律&#20026;&#19994;&quot;的盲者</a></h3><div class="s"><b>&#38472;光&#35802;</b>,&quot;以法律&#20026;&#19994;&quot;的盲者 &#21457;信站： 燕南社&#21306;(http://bbs.yannan.cn). 此文&#36716;自作者<br>  的博客： &#36825;是我今年初采&#35775;的一&#20010;人物，最近，他因&#20026;揭露沂南&#21439;&#35745;生工作的野&#34542; <b>...</b><br><div><cite>web.cenet.org.cn/upfile/74896.doc</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:KH0kMRQIjZQJ:http://web.cenet.org.cn/upfile/74896.doc+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://web.cenet.org.cn/upfile/74896.doc+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="/images?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;oi=image_result_group&amp;sa=X">「<b>&#38472;光&#35802;</b>」的圖片搜尋結果</a></h3><br><div><a href="/imgres?imgurl=http://jiuyuan110.files.wordpress.com/2011/10/chen.jpg&amp;imgrefurl=http://jiuyuan110.wordpress.com/2011/10/05/49/&amp;h=395&amp;w=300&amp;sz=24&amp;tbnid=Bm7Ei8HBugK4JM:&amp;tbnh=124&amp;tbnw=94&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__X4aTZjFZl_5I3JVy_UTlnePbBHY=&amp;sa=X&amp;ei=qwS0ToOpNoqbiALv_7ieDQ&amp;ved=0CDUQ9QEwCg"><img src="/images?q=tbn:ANd9GcRvS7CH_2aF0kT3rc_KVj8Lp1isdIY0Umaon0Vh_WI2fhTX0AA2TJIZaFA" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="59"></a><a href="/imgres?imgurl=http://www.asianews.it/files/img/CHINA_-_Chen_guangcheng_and_family.jpg&amp;imgrefurl=http://www.asianews.it/news-zh/%25E8%25AD%25A6%25E5%25AF%259F%25E6%25AE%25B4%25E6%2589%2593%25E5%25A4%25B1%25E6%2598%258E%25E7%25BB%25B4%25E6%259D%2583%25E4%25BA%25BA%25E5%25A3%25AB%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%25E5%258F%258A%25E5%2585%25B6%25E5%25A6%25BB-20747.html&amp;h=341&amp;w=455&amp;sz=38&amp;tbnid=NU0b-GFtQngMoM:&amp;tbnh=96&amp;tbnw=128&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__6T7uVOZ1jK9w5u9oczpMxebHRUw=&amp;sa=X&amp;ei=qwS0ToOpNoqbiALv_7ieDQ&amp;ved=0CDcQ9QEwCw"><img src="/images?q=tbn:ANd9GcRfGcVRA2438LH_j3lBlLRT-sOmxZtWbvpi3fawc0NJYiPJCFHMXSOS8Q" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="104"></a><a href="/imgres?imgurl=http://4.bp.blogspot.com/_4hY1PX47w4U/TJSdavsLHnI/AAAAAAAAAIc/pvxq4gQVfNc/s1600/%E7%BB%B4%E6%9D%83%E8%8B%B1%E9%9B%84%E9%99%88%E5%85%89%E8%AF%9A.jpg&amp;imgrefurl=http://chenqitang.blogspot.com/2010/09/blog-post_18.html&amp;h=530&amp;w=650&amp;sz=56&amp;tbnid=RuVsPKv-ZP7k2M:&amp;tbnh=112&amp;tbnw=137&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__DvDHsAlmVHTkT7rasnP4oc9YFjA=&amp;sa=X&amp;ei=qwS0ToOpNoqbiALv_7ieDQ&amp;ved=0CDkQ9QEwDA"><img src="/images?q=tbn:ANd9GcRWDFzcXaiM9sjjA9mZlFyR7S3-LfMdXDSerW-l4fF9NxVdKt84n7K8iQ" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="95"></a><a href="/imgres?imgurl=http://m1.aboluowang.com/news/data/uploadfile/200804/20080410224225317.jpg&amp;imgrefurl=http://www.aboluowang.com/news/data/2008/0410/article_45913.html&amp;h=399&amp;w=600&amp;sz=24&amp;tbnid=nRF3mwtYQhWixM:&amp;tbnh=90&amp;tbnw=135&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__uMkIyjzGwHf3e7M7BNWh_9i1y7A=&amp;sa=X&amp;ei=qwS0ToOpNoqbiALv_7ieDQ&amp;ved=0CDsQ9QEwDQ"><img src="/images?q=tbn:ANd9GcRaSQSjmwIMtw_HoZmeWtrTh5dL36QB6a6llUw02XQQvAva1cgojY9Srzw" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="117"></a><a href="/imgres?imgurl=http://blog.boxun.com/blogfile/caichu/san6.jpg&amp;imgrefurl=http://blog.boxun.com/hero/caichu/183_1.shtml&amp;h=299&amp;w=400&amp;sz=26&amp;tbnid=g3_TRJt4S8OBgM:&amp;tbnh=93&amp;tbnw=124&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__qocVWrVBXTZZTbMa4xfxZrEmjk0=&amp;sa=X&amp;ei=qwS0ToOpNoqbiALv_7ieDQ&amp;ved=0CD0Q9QEwDg"><img src="/images?q=tbn:ANd9GcSZkt7ibBEELqx9elHDc9on7h9KVTz-finZuHgCdFme4iqtNipNJYtfBT8" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="104"></a></div></li></ol></div></div></div><div id="foot"><table align="center" border="0" cellpadding="0" cellspacing="0" id="nav"><tr valign="top"><td class="b" align="left"><span class="csb ch" style="background-position:-26px 0;width:18px"></span><b></b></td><td><span class="csb ch" style="background-position:-44px 0;width:16px"></span><b>1</b></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=qwS0ToOpNoqbiALv_7ieDQ&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=10&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>2</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=qwS0ToOpNoqbiALv_7ieDQ&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=20&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>3</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=qwS0ToOpNoqbiALv_7ieDQ&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=30&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>4</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=qwS0ToOpNoqbiALv_7ieDQ&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=40&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>5</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=qwS0ToOpNoqbiALv_7ieDQ&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=50&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>6</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=qwS0ToOpNoqbiALv_7ieDQ&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=60&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>7</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=qwS0ToOpNoqbiALv_7ieDQ&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=70&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>8</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=qwS0ToOpNoqbiALv_7ieDQ&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=80&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>9</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=qwS0ToOpNoqbiALv_7ieDQ&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=90&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>10</a></td><td class="b" style="text-align:left"><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=qwS0ToOpNoqbiALv_7ieDQ&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=10&amp;sa=N" style="text-align:left"><span class="csb ch" style="background-position:-76px 0;width:66px"></span><span style="display:block;margin-left:53px"><b>下一頁</b></span></a></td></tr></table><div><div style="margin-top:22px"><form method="GET" action="/search"><table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-bottom:1px solid #e7e7e7;padding:8px 0 0;position:relative"><tr><td class="lst-td" width="100%" valign="bottom"><div style="position:relative;zoom:1"><input autocomplete="off" class="lst" type="text" name="q" maxlength="2048" value="&#38472;光&#35802;" title="搜尋"></div></td><td><div class="ds"><div class="lsbb"><input type="submit" name="btnG" class="lsb" value="搜尋"></div></div></td></tr></table><input type="hidden" name="hl" value="zh-TW"></form></div><p id="bfl" class="flc" style="margin:6px 0 0;text-align:center"><a href="/support/websearch/bin/answer.py?answer=134479&amp;hl=zh-TW">搜尋說明</a></p></div><div id="fll" class="flc" style="margin:19px auto 19px auto;text-align:center"><a href="/"> Google 首頁 </a> <a href="
          /intl/zh-TW/ads/">廣告計劃</a> <a href="/intl/zh-TW/privacy.html">隱私權政策</a> <a href="/intl/zh-TW/about.html">Google 完全手冊</a></div></div></td><td valign="top"></td></tr></table><script src="/extern_js/f/CgV6aC1UVxICaGsgDSswWjgALCswDjgALCswCjgAmgICaGUsKzAYOAAsgAIEkAJW/GEqW3SC_47E.js"></script><script type="text/javascript">var form=document.gbqf||document.gs||document.f||document.gs;google.ac.i(form,form.q,'','&#38472;光&#35802;','',{"sw":1,"hl":1,"d":1,"o":1,"vc":-3},'serp',{"dh":true,"exp":"kjrmc","host":"google.com.hk","msgs":{"lcky":"好手氣","lml":"瞭解詳情","psrc":"已從您的「<a href=\"/history\">網頁記錄</a>」中移除這筆搜尋記錄","psrl":"移除","srch":"Google 搜尋"}})</script></body></html>getResultCount 1
-count=-1
-to send to http://www.shiaima.com/cgc/saveCount.php?count=-1
-sql=INSERT INTO CGC_SEARCH_OVERVIEW(UPDATETIME,RESULTCOUNT) VALUES (1320420351, -1)time flies
+getResultCount 2
+getResultCount 3, tmp=1,560,000</b>項符合<b>&#38472;光&#35802;</b>的查詢結果，以下是第 <b>1</b>-<b>10</b>項。</div></div></td><td></td></tr><tr><td valign="top" id="leftnav" style="padding:4px"><div id="modeselector" style="padding-bottom:4px"><ul><li class="mitem msel"><span class="micon" style="
+          background-pogetResultCount 4
+count=1560000
+to send to http://www.shiaima.com/cgc/saveCount.php?count=1560000
+sql=INSERT INTO CGC_SEARCH_OVERVIEW(UPDATETIME,RESULTCOUNT) VALUES (1320420524, 1560000)time flies
 30680 bytes retrieved
 
 <!doctype html><html><head><meta http-equiv="Content-Type" content="text/html; charset=Big5"><title>&#38472;光&#35802; - Google 搜尋</title><style>#gbar,#guser{font-size:13px;padding-top:1px !important}#gbar{height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}</style><style>
@@ -1275,4 +849,856 @@ sql=INSERT INTO CGC_SEARCH_OVERVIEW(UPDATETIME,RESULTCOUNT) VALUES (1320420351, 
     <body bgcolor="#ffffff" topmargin="3" marginheight="3" marginwidth="0"
   ><div id=gbar><nobr><b class=gb1>所有網頁</b> <a class=gb1 href="http://www.google.com.hk/search?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&tbm=isch&source=og&sa=N&tab=wi">圖片</a> <a class=gb1 href="http://www.google.com.hk/search?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&tbo=u&tbm=vid&source=og&sa=N&tab=wv">影片</a> <a class=gb1 href="http://maps.google.com.hk/maps?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&sa=N&tab=wl">地圖</a> <a class=gb1 href="http://www.google.com.hk/search?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&tbo=u&tbm=nws&source=og&sa=N&tab=wn">新聞</a> <a class=gb1 href="http://translate.google.com.hk/?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&sa=N&tab=wT">翻譯</a> <a class=gb1 href="https://mail.google.com/mail/?hl=zh-TW&tab=wm">Gmail</a> <a class=gb1 style="text-decoration:none" href="http://www.google.com.hk/intl/zh-TW/options/"><u>更多</u> &raquo;</a></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.com/history/optout?hl=zh-TW" class=gb4>網頁記錄</a> | <a  href="/preferences?hl=zh-TW" class=gb4>設定</a> | <a id=gb_70 href="https://accounts.google.com/ServiceLogin?hl=zh-TW&continue=http://www.google.com.hk/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A" class=gb4>登入</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div><br clear="all"><table border="0" cellpadding="0" cellspacing="0" id="mn" style="position:relative"><tr><td rowspan="2" valign="top" width="157"><h1><a href="/webhp?hl=" id="logo" title="Go to Google Home"><img src="/images/nav_logo_hp2.png" alt="" height="222" style="border:0" width="167"></a></h1></td><td valign="top" style="padding-left:9px" width="559"><form name="gs" id="tsf" method="GET" action="/search" style="display:block;margin:0;background:none"><table border="0" cellpadding="0" cellspacing="0" id="sbhost" style="border-bottom:1px solid #e7e7e7;margin-top:18px;position:relative"><tr><td class="lst-td" width="100%" valign="bottom" style=""><div style="position:relative;zoom:1"><input autocomplete="off" class="lst" type="text" name="q" maxlength="2048" title="搜尋" value="&#38472;光&#35802;"></div></td><td><div class="ds"><div class="lsbb"><input type="submit" name="btnG" class="lsb" value="搜尋"></div></div></td></tr></table></form></td><td style="padding-left:5px" width="259"></td></tr><tr><td width="100%"><div id="subform_ctrl"><div style="float:right"><a class="fl" href="/advanced_search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;ie=UTF-8">進階搜尋</a></div><div>約有<b>1,560,000</b>項符合<b>&#38472;光&#35802;</b>的查詢結果，以下是第 <b>1</b>-<b>10</b>項。</div></div></td><td></td></tr><tr><td valign="top" id="leftnav" style="padding:4px"><div id="modeselector" style="padding-bottom:4px"><ul><li class="mitem msel"><span class="micon" style="
           background-position:-20px -132px
-        "></span>全部</li></ul><a id="showmodes" class="q" href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;prmdo=1&amp;sa=X"><span class="micon"></span><span class="msm">更多</span></a></div><div class="lnsec"><h2 class="hd">Search Options</h2><ul id="tbd" class="med"></ul><a href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;ie=UTF-8&amp;tbo=1" class="q" style="display:block;margin-bottom:16px">顯示選項...</a></div></td><td valign="top"><div id="center_col"><div id="tbbc" style="background:#ebeff9;padding:8px;margin-bottom:4px"><b>網路工具</b></div><div id="res"><div id="ires"><ol><li class="g"><h3 class="r"><a href="http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A" onmousedown="return hlprwt(this, 'http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A')"><b>&#38472;光&#35802;</b>- &#32500;基百科，自由的百科全&#20070;</a></h3><div class="s"><b>&#38472;光&#35802;</b>（1971年11月12日－），中&#22269;山&#19996;&#20020;沂人，因幼&#26102;生病&#23548;致&#21452;眼失明。<b>&#38472;光&#35802;</b><br>  &#27809;有&#32463;&#36807;法律的&#19987;&#19994;培&#35757;，而&#20165;依靠自&#23398;法律知&#35782;，&#26469;&#24110;助&#35768;多村民、&#27531;疾人士&#32500;&#25252; <b>...</b><br><div><cite>zh.wikipedia.org/zh-hk/<b>&#38472;光&#35802;</b></cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:3p2W6Hp0hegJ:http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3><a href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;ie=UTF-8&amp;source=univ&amp;tbm=vid&amp;tbo=u&amp;ei=CQS0TrLfIJOPigK4yaFf&amp;sa=X&amp;oi=video_result_group&amp;ct=title&amp;resnum=2&amp;ved=0CBsQqwQwAQ">「<b>&#38472;光&#35802;</b>」的影片</a></h3><table class="ts" style="margin-top:-1px"><tr><td valign="top" colspan="1" width="290"><table class="ts"><tr><td valign="top" style="padding:7px 0 0;padding-right:8px"><a href="http://www.youtube.com/watch?v=Z2YB2EjRZso"><img src="http://img.youtube.com/vi/Z2YB2EjRZso/default.jpg?h=60&amp;w=80&amp;sigh=__lmY3uuTGAEIeHt1oYBPDNg1SixE=" alt="" align="left" border="1" height="60" width="80"></a></td><td valign="top" style="padding:5px 10px 0 0"><a href="http://www.youtube.com/watch?v=Z2YB2EjRZso">Free Cheng Guangcheng 1/5 <b>&#38472;光&#35802;</b>最新&#35270;&#39057;-被&#30417;控，&#26080;人身自由 <b>...</b></a><br><span class="f">12 分鐘 - 2011年2月9日<br>上傳者：vocntv</span><br><cite>www.youtube.com/watch?v=Z2YB2EjRZso</cite></td></tr></table></td><td valign="top" colspan="1" width="290"><table class="ts"><tr><td valign="top" style="padding:7px 0 0;padding-right:8px"><a href="http://www.youtube.com/watch?v=D6lnZqE57HQ"><img src="http://img.youtube.com/vi/D6lnZqE57HQ/default.jpg?h=60&amp;w=80&amp;sigh=__3Xo_TgfgZufGOH-VafXwwRh3nHQ=" alt="" align="left" border="1" height="60" width="80"></a></td><td valign="top" style="padding:5px 10px 0 0"><a href="http://www.youtube.com/watch?v=D6lnZqE57HQ">陳光誠被軟禁流出視頻（完整高清版） - YouTube</a><br><span class="f">62 分鐘 - 2011年2月13日<br>上傳者：chinasuntv</span><br><cite>www.youtube.com/watch?v=D6lnZqE57HQ</cite></td></tr></table></td></tr></table></li><li class="g"><h3 class="r"><a href="http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html" onmousedown="return hlprwt(this, 'http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html')">五网民探望<b>&#38472;光&#35802;</b>被劫&#21016;沙沙妙&#35273;遭&#22260;&#27572;&#24323;野外</a></h3><div class="s">2011年9月19日 <b>...</b> 山&#19996;&#20020;沂盲人&#32500;&#26435;人士<b>&#38472;光&#35802;</b>刑&#28385;出&#29425;一年后，和家人一直被禁止出&#38376;，家中被安&#35013;<br>  &#31363;听器，&#38376;外有看守，甚至&#36830;孩子上&#23398;的&#26435;利，也被&#21093;&#22842;。社&#20250;各 <b>...</b><br><div><cite>www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:-IG_DUJQzwAJ:http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87" onmousedown="return hlprwt(this, 'http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87')">网友&#35762;述探&#35775;<b>&#38472;光&#35802;</b>的&#32463;&#36807;| RFI</a></h3><div class="s">2011年10月6日 <b>...</b> 中&#22269;山&#19996;盲人&#32500;&#26435;人士<b>&#38472;光&#35802;</b>因&#20026;反&#23545;&#24403;地政府野&#34542;推行&#35745;划生育政策而被以<br>  莫&#39035;有的罪名&#38162;&#38107;入&#29425;，出&#29425;之后一年多&#26469;一直与其妻子与女儿一同 <b>...</b><br><div><cite>www.chinese.rfi.fr/中&#22269;/20111006-网友&#35762;述探&#35775;<b>&#38472;光&#35802;</b>的&#32463;&#36807;</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:aSkYGOMTIGQJ:http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml" onmousedown="return hlprwt(this, 'http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml')">BBC中文网- &#20004;岸三地- “看望<b>&#38472;光&#35802;</b>”活&#21160;得到&#24191;泛&#21709;&#24212;</a></h3><div class="s">2011年10月10日 <b>...</b> 由活&#21160;人士在微博上&#21457;起的网友自&#21457;看望盲人律&#24072;<b>&#38472;光&#35802;</b>的活&#21160;得到了&#24191;泛支持。<br>  &#36807;去一周，大&#32422;有20人&#35797;&#22270;&#38383;&#20851;，探望<b>&#38472;光&#35802;</b>及其家人。<br><div><cite>www.bbc.co.uk/.../111010_china_blind_lawyer.shtml</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:Qn5Yiw9KoKsJ:http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html" onmousedown="return hlprwt(this, 'http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html')"><b>&#38472;光&#35802;</b>夫&#22919;再遭&#27572;打-【<b>&#38472;光&#35802;</b>】</a></h3><div class="s">2011年2月22日 <b>...</b> 而&#22791;受各界&#20851;注的山&#19996;失明人士<b>&#38472;光&#35802;</b>境&#20917;十分&#24694;劣，香港的“中&#22269;&#32500;&#26435;律&#24072;&#20851;注&#32452;”<br>  &#25191;行秘&#20070;潘嘉&#20255;向本台表示，周一他&#20204;收到有&#20851;<b>&#38472;光&#35802;</b>的最新 <b>...</b><br><div><cite>www.aboluowang.com/.../<b>&#38472;光&#35802;</b>夫&#22919;再遭&#27572;打-119541.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:_CpW4aA4jWcJ:http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://china.dwnews.com/news/2011-06-16/57815292.html" onmousedown="return hlprwt(this, 'http://china.dwnews.com/news/2011-06-16/57815292.html')">&#20256;盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>遭暴力抄家_多&#32500;新&#38395;网</a></h3><div class="s">2011年6月16日 <b>...</b> 曾因抗拒&#20020;沂&#24403;地野&#34542;&#35745;划生育政策的盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>日前仍遭&#36719;禁在家，据<br>  网&#32476;&#20256;布的其妻子&#20146;&#31508;求救信&#26174;示，自2010年&#33719;&#37322;后<b>&#38472;光&#35802;</b>与其 <b>...</b><br><div><cite>china.dwnews.com/news/2011-06-16/57815292.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:fXh2l39LnFoJ:http://china.dwnews.com/news/2011-06-16/57815292.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://china.dwnews.com/news/2011-06-16/57815292.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://soundofhope.org/programs/162/200365-1.asp" onmousedown="return hlprwt(this, 'http://soundofhope.org/programs/162/200365-1.asp')">民&#20247;接力探&#35270;<b>&#38472;光&#35802;</b>周&#36793;居民被噤&#22768;</a></h3><div class="s">2011年10月8日 <b>...</b> 山&#19996;著名盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>，自2010年出&#29425;后即被&#24403;局&#30417;控，家中被安&#35013;&#25668;像&#22836;、<br>  手机屏蔽器、&#24378;光&#28783;，他和妻子被禁止外出，生活用品只能由 <b>...</b><br><div><cite>soundofhope.org/programs/162/200365-1.asp</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:IhhcftRml_8J:http://soundofhope.org/programs/162/200365-1.asp+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://soundofhope.org/programs/162/200365-1.asp+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://web.cenet.org.cn/upfile/74896.doc" onmousedown="return hlprwt(this, 'http://web.cenet.org.cn/upfile/74896.doc')"><b>&#38472;光&#35802;</b>,&quot;以法律&#20026;&#19994;&quot;的盲者</a></h3><div class="s"><b>&#38472;光&#35802;</b>,&quot;以法律&#20026;&#19994;&quot;的盲者 &#21457;信站： 燕南社&#21306;(http://bbs.yannan.cn). 此文&#36716;自作者<br>  的博客： &#36825;是我今年初采&#35775;的一&#20010;人物，最近，他因&#20026;揭露沂南&#21439;&#35745;生工作的野&#34542; <b>...</b><br><div><cite>web.cenet.org.cn/upfile/74896.doc</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:KH0kMRQIjZQJ:http://web.cenet.org.cn/upfile/74896.doc+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://web.cenet.org.cn/upfile/74896.doc+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="/images?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;oi=image_result_group&amp;sa=X">「<b>&#38472;光&#35802;</b>」的圖片搜尋結果</a></h3><br><div><a href="/imgres?imgurl=http://jiuyuan110.files.wordpress.com/2011/10/chen.jpg&amp;imgrefurl=http://jiuyuan110.wordpress.com/2011/10/05/49/&amp;h=395&amp;w=300&amp;sz=24&amp;tbnid=Bm7Ei8HBugK4JM:&amp;tbnh=124&amp;tbnw=94&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__X4aTZjFZl_5I3JVy_UTlnePbBHY=&amp;sa=X&amp;ei=CQS0TrLfIJOPigK4yaFf&amp;ved=0CDUQ9QEwCg"><img src="/images?q=tbn:ANd9GcRvS7CH_2aF0kT3rc_KVj8Lp1isdIY0Umaon0Vh_WI2fhTX0AA2TJIZaFA" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="59"></a><a href="/imgres?imgurl=http://www.asianews.it/files/img/CHINA_-_Chen_guangcheng_and_family.jpg&amp;imgrefurl=http://www.asianews.it/news-zh/%25E8%25AD%25A6%25E5%25AF%259F%25E6%25AE%25B4%25E6%2589%2593%25E5%25A4%25B1%25E6%2598%258E%25E7%25BB%25B4%25E6%259D%2583%25E4%25BA%25BA%25E5%25A3%25AB%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%25E5%258F%258A%25E5%2585%25B6%25E5%25A6%25BB-20747.html&amp;h=341&amp;w=455&amp;sz=38&amp;tbnid=NU0b-GFtQngMoM:&amp;tbnh=96&amp;tbnw=128&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__6T7uVOZ1jK9w5u9oczpMxebHRUw=&amp;sa=X&amp;ei=CQS0TrLfIJOPigK4yaFf&amp;ved=0CDcQ9QEwCw"><img src="/images?q=tbn:ANd9GcRfGcVRA2438LH_j3lBlLRT-sOmxZtWbvpi3fawc0NJYiPJCFHMXSOS8Q" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="104"></a><a href="/imgres?imgurl=http://4.bp.blogspot.com/_4hY1PX47w4U/TJSdavsLHnI/AAAAAAAAAIc/pvxq4gQVfNc/s1600/%E7%BB%B4%E6%9D%83%E8%8B%B1%E9%9B%84%E9%99%88%E5%85%89%E8%AF%9A.jpg&amp;imgrefurl=http://chenqitang.blogspot.com/2010/09/blog-post_18.html&amp;h=530&amp;w=650&amp;sz=56&amp;tbnid=RuVsPKv-ZP7k2M:&amp;tbnh=112&amp;tbnw=137&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__DvDHsAlmVHTkT7rasnP4oc9YFjA=&amp;sa=X&amp;ei=CQS0TrLfIJOPigK4yaFf&amp;ved=0CDkQ9QEwDA"><img src="/images?q=tbn:ANd9GcRWDFzcXaiM9sjjA9mZlFyR7S3-LfMdXDSerW-l4fF9NxVdKt84n7K8iQ" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="95"></a><a href="/imgres?imgurl=http://m1.aboluowang.com/news/data/uploadfile/200804/20080410224225317.jpg&amp;imgrefurl=http://www.aboluowang.com/news/data/2008/0410/article_45913.html&amp;h=399&amp;w=600&amp;sz=24&amp;tbnid=nRF3mwtYQhWixM:&amp;tbnh=90&amp;tbnw=135&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__uMkIyjzGwHf3e7M7BNWh_9i1y7A=&amp;sa=X&amp;ei=CQS0TrLfIJOPigK4yaFf&amp;ved=0CDsQ9QEwDQ"><img src="/images?q=tbn:ANd9GcRaSQSjmwIMtw_HoZmeWtrTh5dL36QB6a6llUw02XQQvAva1cgojY9Srzw" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="117"></a><a href="/imgres?imgurl=http://blog.boxun.com/blogfile/caichu/san6.jpg&amp;imgrefurl=http://blog.boxun.com/hero/caichu/183_1.shtml&amp;h=299&amp;w=400&amp;sz=26&amp;tbnid=g3_TRJt4S8OBgM:&amp;tbnh=93&amp;tbnw=124&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__qocVWrVBXTZZTbMa4xfxZrEmjk0=&amp;sa=X&amp;ei=CQS0TrLfIJOPigK4yaFf&amp;ved=0CD0Q9QEwDg"><img src="/images?q=tbn:ANd9GcSZkt7ibBEELqx9elHDc9on7h9KVTz-finZuHgCdFme4iqtNipNJYtfBT8" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="104"></a></div></li></ol></div></div></div><div id="foot"><table align="center" border="0" cellpadding="0" cellspacing="0" id="nav"><tr valign="top"><td class="b" align="left"><span class="csb ch" style="background-position:-26px 0;width:18px"></span><b></b></td><td><span class="csb ch" style="background-position:-44px 0;width:16px"></span><b>1</b></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=CQS0TrLfIJOPigK4yaFf&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=10&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>2</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=CQS0TrLfIJOPigK4yaFf&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=20&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>3</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=CQS0TrLfIJOPigK4yaFf&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=30&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>4</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=CQS0TrLfIJOPigK4yaFf&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=40&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>5</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=CQS0TrLfIJOPigK4yaFf&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=50&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>6</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=CQS0TrLfIJOPigK4yaFf&amp;q=%
+        "></span>全部</li></ul><a id="showmodes" class="q" href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;prmdo=1&amp;sa=X"><span class="micon"></span><span class="msm">更多</span></a></div><div class="lnsec"><h2 class="hd">Search Options</h2><ul id="tbd" class="med"></ul><a href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;ie=UTF-8&amp;tbo=1" class="q" style="display:block;margin-bottom:16px">顯示選項...</a></div></td><td valign="top"><div id="center_col"><div id="tbbc" style="background:#ebeff9;padding:8px;margin-bottom:4px"><b>網路工具</b></div><div id="res"><div id="ires"><ol><li class="g"><h3 class="r"><a href="http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A" onmousedown="return hlprwt(this, 'http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A')"><b>&#38472;光&#35802;</b>- &#32500;基百科，自由的百科全&#20070;</a></h3><div class="s"><b>&#38472;光&#35802;</b>（1971年11月12日－），中&#22269;山&#19996;&#20020;沂人，因幼&#26102;生病&#23548;致&#21452;眼失明。<b>&#38472;光&#35802;</b><br>  &#27809;有&#32463;&#36807;法律的&#19987;&#19994;培&#35757;，而&#20165;依靠自&#23398;法律知&#35782;，&#26469;&#24110;助&#35768;多村民、&#27531;疾人士&#32500;&#25252; <b>...</b><br><div><cite>zh.wikipedia.org/zh-hk/<b>&#38472;光&#35802;</b></cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:3p2W6Hp0hegJ:http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3><a href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;ie=UTF-8&amp;source=univ&amp;tbm=vid&amp;tbo=u&amp;ei=tgS0TuisCeKtiQK43YF3&amp;sa=X&amp;oi=video_result_group&amp;ct=title&amp;resnum=2&amp;ved=0CBsQqwQwAQ">「<b>&#38472;光&#35802;</b>」的影片</a></h3><table class="ts" style="margin-top:-1px"><tr><td valign="top" colspan="1" width="290"><table class="ts"><tr><td valign="top" style="padding:7px 0 0;padding-right:8px"><a href="http://www.youtube.com/watch?v=Z2YB2EjRZso"><img src="http://img.youtube.com/vi/Z2YB2EjRZso/default.jpg?h=60&amp;w=80&amp;sigh=__lmY3uuTGAEIeHt1oYBPDNg1SixE=" alt="" align="left" border="1" height="60" width="80"></a></td><td valign="top" style="padding:5px 10px 0 0"><a href="http://www.youtube.com/watch?v=Z2YB2EjRZso">Free Cheng Guangcheng 1/5 <b>&#38472;光&#35802;</b>最新&#35270;&#39057;-被&#30417;控，&#26080;人身自由 <b>...</b></a><br><span class="f">12 分鐘 - 2011年2月9日<br>上傳者：vocntv</span><br><cite>www.youtube.com/watch?v=Z2YB2EjRZso</cite></td></tr></table></td><td valign="top" colspan="1" width="290"><table class="ts"><tr><td valign="top" style="padding:7px 0 0;padding-right:8px"><a href="http://www.youtube.com/watch?v=D6lnZqE57HQ"><img src="http://img.youtube.com/vi/D6lnZqE57HQ/default.jpg?h=60&amp;w=80&amp;sigh=__3Xo_TgfgZufGOH-VafXwwRh3nHQ=" alt="" align="left" border="1" height="60" width="80"></a></td><td valign="top" style="padding:5px 10px 0 0"><a href="http://www.youtube.com/watch?v=D6lnZqE57HQ">陳光誠被軟禁流出視頻（完整高清版） - YouTube</a><br><span class="f">62 分鐘 - 2011年2月13日<br>上傳者：chinasuntv</span><br><cite>www.youtube.com/watch?v=D6lnZqE57HQ</cite></td></tr></table></td></tr></table></li><li class="g"><h3 class="r"><a href="http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html" onmousedown="return hlprwt(this, 'http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html')">五网民探望<b>&#38472;光&#35802;</b>被劫&#21016;沙沙妙&#35273;遭&#22260;&#27572;&#24323;野外</a></h3><div class="s">2011年9月19日 <b>...</b> 山&#19996;&#20020;沂盲人&#32500;&#26435;人士<b>&#38472;光&#35802;</b>刑&#28385;出&#29425;一年后，和家人一直被禁止出&#38376;，家中被安&#35013;<br>  &#31363;听器，&#38376;外有看守，甚至&#36830;孩子上&#23398;的&#26435;利，也被&#21093;&#22842;。社&#20250;各 <b>...</b><br><div><cite>www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:-IG_DUJQzwAJ:http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87" onmousedown="return hlprwt(this, 'http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87')">网友&#35762;述探&#35775;<b>&#38472;光&#35802;</b>的&#32463;&#36807;| RFI</a></h3><div class="s">2011年10月6日 <b>...</b> 中&#22269;山&#19996;盲人&#32500;&#26435;人士<b>&#38472;光&#35802;</b>因&#20026;反&#23545;&#24403;地政府野&#34542;推行&#35745;划生育政策而被以<br>  莫&#39035;有的罪名&#38162;&#38107;入&#29425;，出&#29425;之后一年多&#26469;一直与其妻子与女儿一同 <b>...</b><br><div><cite>www.chinese.rfi.fr/中&#22269;/20111006-网友&#35762;述探&#35775;<b>&#38472;光&#35802;</b>的&#32463;&#36807;</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:aSkYGOMTIGQJ:http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml" onmousedown="return hlprwt(this, 'http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml')">BBC中文网- &#20004;岸三地- “看望<b>&#38472;光&#35802;</b>”活&#21160;得到&#24191;泛&#21709;&#24212;</a></h3><div class="s">2011年10月10日 <b>...</b> 由活&#21160;人士在微博上&#21457;起的网友自&#21457;看望盲人律&#24072;<b>&#38472;光&#35802;</b>的活&#21160;得到了&#24191;泛支持。<br>  &#36807;去一周，大&#32422;有20人&#35797;&#22270;&#38383;&#20851;，探望<b>&#38472;光&#35802;</b>及其家人。<br><div><cite>www.bbc.co.uk/.../111010_china_blind_lawyer.shtml</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:Qn5Yiw9KoKsJ:http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html" onmousedown="return hlprwt(this, 'http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html')"><b>&#38472;光&#35802;</b>夫&#22919;再遭&#27572;打-【<b>&#38472;光&#35802;</b>】</a></h3><div class="s">2011年2月22日 <b>...</b> 而&#22791;受各界&#20851;注的山&#19996;失明人士<b>&#38472;光&#35802;</b>境&#20917;十分&#24694;劣，香港的“中&#22269;&#32500;&#26435;律&#24072;&#20851;注&#32452;”<br>  &#25191;行秘&#20070;潘嘉&#20255;向本台表示，周一他&#20204;收到有&#20851;<b>&#38472;光&#35802;</b>的最新 <b>...</b><br><div><cite>www.aboluowang.com/.../<b>&#38472;光&#35802;</b>夫&#22919;再遭&#27572;打-119541.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:_CpW4aA4jWcJ:http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://china.dwnews.com/news/2011-06-16/57815292.html" onmousedown="return hlprwt(this, 'http://china.dwnews.com/news/2011-06-16/57815292.html')">&#20256;盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>遭暴力抄家_多&#32500;新&#38395;网</a></h3><div class="s">2011年6月16日 <b>...</b> 曾因抗拒&#20020;沂&#24403;地野&#34542;&#35745;划生育政策的盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>日前仍遭&#36719;禁在家，据<br>  网&#32476;&#20256;布的其妻子&#20146;&#31508;求救信&#26174;示，自2010年&#33719;&#37322;后<b>&#38472;光&#35802;</b>与其 <b>...</b><br><div><cite>china.dwnews.com/news/2011-06-16/57815292.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:fXh2l39LnFoJ:http://china.dwnews.com/news/2011-06-16/57815292.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://china.dwnews.com/news/2011-06-16/57815292.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://soundofhope.org/programs/162/200365-1.asp" onmousedown="return hlprwt(this, 'http://soundofhope.org/programs/162/200365-1.asp')">民&#20247;接力探&#35270;<b>&#38472;光&#35802;</b>周&#36793;居民被噤&#22768;</a></h3><div class="s">2011年10月8日 <b>...</b> 山&#19996;著名盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>，自2010年出&#29425;后即被&#24403;局&#30417;控，家中被安&#35013;&#25668;像&#22836;、<br>  手机屏蔽器、&#24378;光&#28783;，他和妻子被禁止外出，生活用品只能由 <b>...</b><br><div><cite>soundofhope.org/programs/162/200365-1.asp</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:IhhcftRml_8J:http://soundofhope.org/programs/162/200365-1.asp+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://soundofhope.org/programs/162/200365-1.asp+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://web.cenet.org.cn/upfile/74896.doc" onmousedown="return hlprwt(this, 'http://web.cenet.org.cn/upfile/74896.doc')"><b>&#38472;光&#35802;</b>,&quot;以法律&#20026;&#19994;&quot;的盲者</a></h3><div class="s"><b>&#38472;光&#35802;</b>,&quot;以法律&#20026;&#19994;&quot;的盲者 &#21457;信站： 燕南社&#21306;(http://bbs.yannan.cn). 此文&#36716;自作者<br>  的博客： &#36825;是我今年初采&#35775;的一&#20010;人物，最近，他因&#20026;揭露沂南&#21439;&#35745;生工作的野&#34542; <b>...</b><br><div><cite>web.cenet.org.cn/upfile/74896.doc</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:KH0kMRQIjZQJ:http://web.cenet.org.cn/upfile/74896.doc+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://web.cenet.org.cn/upfile/74896.doc+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="/images?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;oi=image_result_group&amp;sa=X">「<b>&#38472;光&#35802;</b>」的圖片搜尋結果</a></h3><br><div><a href="/imgres?imgurl=http://jiuyuan110.files.wordpress.com/2011/10/chen.jpg&amp;imgrefurl=http://jiuyuan110.wordpress.com/2011/10/05/49/&amp;h=395&amp;w=300&amp;sz=24&amp;tbnid=Bm7Ei8HBugK4JM:&amp;tbnh=124&amp;tbnw=94&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__X4aTZjFZl_5I3JVy_UTlnePbBHY=&amp;sa=X&amp;ei=tgS0TuisCeKtiQK43YF3&amp;ved=0CDUQ9QEwCg"><img src="/images?q=tbn:ANd9GcRvS7CH_2aF0kT3rc_KVj8Lp1isdIY0Umaon0Vh_WI2fhTX0AA2TJIZaFA" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="59"></a><a href="/imgres?imgurl=http://www.asianews.it/files/img/CHINA_-_Chen_guangcheng_and_family.jpg&amp;imgrefurl=http://www.asianews.it/news-zh/%25E8%25AD%25A6%25E5%25AF%259F%25E6%25AE%25B4%25E6%2589%2593%25E5%25A4%25B1%25E6%2598%258E%25E7%25BB%25B4%25E6%259D%2583%25E4%25BA%25BA%25E5%25A3%25AB%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%25E5%258F%258A%25E5%2585%25B6%25E5%25A6%25BB-20747.html&amp;h=341&amp;w=455&amp;sz=38&amp;tbnid=NU0b-GFtQngMoM:&amp;tbnh=96&amp;tbnw=128&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__6T7uVOZ1jK9w5u9oczpMxebHRUw=&amp;sa=X&amp;ei=tgS0TuisCeKtiQK43YF3&amp;ved=0CDcQ9QEwCw"><img src="/images?q=tbn:ANd9GcRfGcVRA2438LH_j3lBlLRT-sOmxZtWbvpi3fawc0NJYiPJCFHMXSOS8Q" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="104"></a><a href="/imgres?imgurl=http://4.bp.blogspot.com/_4hY1PX47w4U/TJSdavsLHnI/AAAAAAAAAIc/pvxq4gQVfNc/s1600/%E7%BB%B4%E6%9D%83%E8%8B%B1%E9%9B%84%E9%99%88%E5%85%89%E8%AF%9A.jpg&amp;imgrefurl=http://chenqitang.blogspot.com/2010/09/blog-post_18.html&amp;h=530&amp;w=650&amp;sz=56&amp;tbnid=RuVsPKv-ZP7k2M:&amp;tbnh=112&amp;tbnw=137&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__DvDHsAlmVHTkT7rasnP4oc9YFjA=&amp;sa=X&amp;ei=tgS0TuisCeKtiQK43YF3&amp;ved=0CDkQ9QEwDA"><img src="/images?q=tbn:ANd9GcRWDFzcXaiM9sjjA9mZlFyR7S3-LfMdXDSerW-l4fF9NxVdKt84n7K8iQ" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="95"></a><a href="/imgres?imgurl=http://m1.aboluowang.com/news/data/uploadfile/200804/20080410224225317.jpg&amp;imgrefurl=http://www.aboluowang.com/news/data/2008/0410/article_45913.html&amp;h=399&amp;w=600&amp;sz=24&amp;tbnid=nRF3mwtYQhWixM:&amp;tbnh=90&amp;tbnw=135&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__uMkIyjzGwHf3e7M7BNWh_9i1y7A=&amp;sa=X&amp;ei=tgS0TuisCeKtiQK43YF3&amp;ved=0CDsQ9QEwDQ"><img src="/images?q=tbn:ANd9GcRaSQSjmwIMtw_HoZmeWtrTh5dL36QB6a6llUw02XQQvAva1cgojY9Srzw" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="117"></a><a href="/imgres?imgurl=http://blog.boxun.com/blogfile/caichu/san6.jpg&amp;imgrefurl=http://blog.boxun.com/hero/caichu/183_1.shtml&amp;h=299&amp;w=400&amp;sz=26&amp;tbnid=g3_TRJt4S8OBgM:&amp;tbnh=93&amp;tbnw=124&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__qocVWrVBXTZZTbMa4xfxZrEmjk0=&amp;sa=X&amp;ei=tgS0TuisCeKtiQK43YF3&amp;ved=0CD0Q9QEwDg"><img src="/images?q=tbn:ANd9GcSZkt7ibBEELqx9elHDc9on7h9KVTz-finZuHgCdFme4iqtNipNJYtfBT8" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="104"></a></div></li></ol></div></div></div><div id="foot"><table align="center" border="0" cellpadding="0" cellspacing="0" id="nav"><tr valign="top"><td class="b" align="left"><span class="csb ch" style="background-position:-26px 0;width:18px"></span><b></b></td><td><span class="csb ch" style="background-position:-44px 0;width:16px"></span><b>1</b></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=tgS0TuisCeKtiQK43YF3&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=10&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>2</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=tgS0TuisCeKtiQK43YF3&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=20&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>3</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=tgS0TuisCeKtiQK43YF3&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=30&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>4</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=tgS0TuisCeKtiQK43YF3&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=40&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>5</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=tgS0TuisCeKtiQK43YF3&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=50&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>6</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=tgS0TuisCeKtiQK43YF3&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=60&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>7</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=tgS0TuisCeKtiQK43YF3&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=70&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>8</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=tgS0TuisCeKtiQK43YF3&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=80&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>9</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=tgS0TuisCeKtiQK43YF3&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=90&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>10</a></td><td class="b" style="text-align:left"><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=tgS0TuisCeKtiQK43YF3&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=10&amp;sa=N" style="text-align:left"><span class="csb ch" style="background-position:-76px 0;width:66px"></span><span style="display:block;margin-left:53px"><b>下一頁</b></span></a></td></tr></table><div><div style="margin-top:22px"><form method="GET" action="/search"><table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-bottom:1px solid #e7e7e7;padding:8px 0 0;position:relative"><tr><td class="lst-td" width="100%" valign="bottom"><div style="position:relative;zoom:1"><input autocomplete="off" class="lst" type="text" name="q" maxlength="2048" value="&#38472;光&#35802;" title="搜尋"></div></td><td><div class="ds"><div class="lsbb"><input type="submit" name="btnG" class="lsb" value="搜尋"></div></div></td></tr></table><input type="hidden" name="hl" value="zh-TW"></form></div><p id="bfl" class="flc" style="margin:6px 0 0;text-align:center"><a href="/support/websearch/bin/answer.py?answer=134479&amp;hl=zh-TW">搜尋說明</a></p></div><div id="fll" class="flc" style="margin:19px auto 19px auto;text-align:center"><a href="/"> Google 首頁 </a> <a href="
+         /intl/zh-TW/ads/">廣告計劃</a> <a href="/intl/zh-TW/privacy.html">隱私權政策</a> <a href="/intl/zh-TW/about.html">Google 完全手冊</a></div></div></td><td valign="top"></td></tr></table><script src="/extern_js/f/CgV6aC1UVxICaGsgDSswWjgALCswDjgALCswCjgAmgICaGUsKzAYOAAsgAIEkAJW/GEqW3SC_47E.js"></script><script type="text/javascript">var form=document.gbqf||document.gs||document.f||document.gs;google.ac.i(form,form.q,'','&#38472;光&#35802;','',{"sw":1,"hl":1,"d":1,"o":1,"vc":-3},'serp',{"dh":true,"exp":"kjrmc","host":"google.com.hk","msgs":{"lcky":"好手氣","lml":"瞭解詳情","psrc":"已從您的「<a href=\"/history\">網頁記錄</a>」中移除這筆搜尋記錄","psrl":"移除","srch":"Google 搜尋"}})</script></body></html>getResultCount 1
+count=-1
+to send to http://www.shiaima.com/cgc/saveCount.php?count=-1
+sql=INSERT INTO CGC_SEARCH_OVERVIEW(UPDATETIME,RESULTCOUNT) VALUES (1320420534, -1)time flies
+30680 bytes retrieved
+
+<!doctype html><html><head><meta http-equiv="Content-Type" content="text/html; charset=Big5"><title>&#38472;光&#35802; - Google 搜尋</title><style>#gbar,#guser{font-size:13px;padding-top:1px !important}#gbar{height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}</style><style>
+    body,td,div,.p,a{
+      font-family:arial,sans-serif
+    }
+    body {
+      margin:0
+    }
+    #gbar{
+      float:left;
+      height:22px;padding-left:2px;
+      font-size:13px
+    }
+    
+    .gssb_c table{
+      font-size:1em
+    }
+    .gsfi,.gsfs{
+      font-size:17px
+    }
+    
+      .j{
+        width:34em
+      }
+    
+    a:link,.w,.q:active,.q:visited,.tbotu{
+      color:#11c
+    }
+    a.fl,.flc a{
+      color:#4272db;text-decoration:none
+    }
+    
+    a.gl{
+      text-decoration:none
+    }
+    cite, cite a:link{
+      color:#0E774A;
+      font-style:normal
+    }
+    #foot {
+      padding:0 8px;
+    }
+    #foot a{
+      white-space:nowrap
+    }
+    h3{
+      font-size:16px;
+      font-weight:normal;
+      margin:0;
+      padding:0
+    }
+    #res h3{
+      display:inline
+    }
+    .hd{
+      height:1px;
+      position:absolute;
+      top:-1000em
+    }
+    li.g,body,html,table,.std{
+      font-size:13px
+    }
+    li.g{
+      margin-bottom:14px;
+      margin-top:0;
+      zoom:1;
+    }
+    ol li,ul li{
+      list-style:none
+    }
+    h1,ol,ul,li{
+      margin:0;padding:0
+    }
+    #mbEnd li{
+      margin:1em 0
+    }
+    #mbEnd h2{
+      color:#676767;
+      font-family:arial,sans-serif;
+      font-size:11px;
+      font-weight:normal
+    }
+    #center_col{
+      border-left:1px solid #d3e1f9;
+      padding:0 8px
+    }
+    
+      #fll a,#bfl a{
+        margin:0 10px
+      }
+    
+    .f{
+      color:#767676
+    }
+    .grn{
+      color:#393
+    }
+    .ds{
+      border-right:1px solid #e7e7e7;
+      position:relative;
+      height:32px;
+      
+      z-index:100
+    }
+    .e{
+      margin:2px 0px 0.75em
+    }
+    #leftnav a,.slk a{
+      text-decoration:none
+    }
+    #leftnav h2{
+      color: #767676;
+      font-weight: normal;
+      margin:0
+    }
+    #logo{
+      display:block;
+      height:49px;
+      margin-top:12px;
+      margin-left:12px;
+      overflow:hidden;
+      position:relative;
+      width:137px
+    }
+    #logo img{
+      
+      left:0;
+      position:absolute;
+      top:-41px
+    }
+    .lnsec{
+      font-size:13px;
+      border-top:1px solid #c9d7f1;
+      margin-top:5px;
+      padding-top:8px
+    }
+    .lsb,.micon,.csb,.star,.star div{
+      background:url(/images/nav_logo_hp2.png) no-repeat;
+      overflow:hidden
+    }
+    .lst{
+      background:#fff;
+      border:1px solid #ccc;
+      border-bottom:none;
+      color:#000;
+      font:18px arial,sans-serif;
+      
+      float:left;
+      height:26px;
+      margin:0;
+      padding:4px 0 0;
+      padding-left:6px;
+      padding-right:10px;
+      vertical-align:top;
+      width:100%;
+      
+      word-break:break-all
+    }
+    .lst:focus{
+      outline:none
+    }
+    .lst-td{
+      border-bottom:1px solid #999;
+      padding:0
+    }
+    .lst-b{
+      border:1px solid #CCC;
+      border-bottom:none;
+      padding-right:0;
+      height:29px;
+      padding-top:1px
+    }
+    .tia input{
+      border-right:none;
+      padding-right:0
+    }
+    .tia{
+      padding-right:0
+    }
+    .lsbb{
+      background:#eee;
+      border:1px solid #999;
+      border-top-color:#ccc;
+      border-left-color:#ccc;
+      height:30px
+    }
+    .lsb{
+      background-position:bottom;
+      border:none;
+      color:#000;
+      cursor:pointer;
+      font:15px arial,sans-serif;
+      height:30px;
+      margin:0;
+      vertical-align:top
+    }
+    .lsb:active{
+      background:#ccc
+    }
+    .micon {
+      float:left;
+      height:19px;
+      margin-top:2px;
+      margin-right: 6px;
+      width:19px;
+    }
+    #nav{
+      
+      border-collapse:collapse;
+      margin-top:17px;
+      text-align:left
+    }
+    #nav td{
+      text-align:center;
+    }
+    .nobr{
+      white-space:nowrap
+    }
+    #showmodes .micon{
+      background-position:-150px -114px;
+      height:17px;
+      margin-left:9px;
+      width:17px;
+    }
+    #subform_ctrl{
+      font-size:11px;
+      height:26px;
+      margin:5px 3px 0;
+      margin-left:17px
+    }
+    .ts{
+      border-collapse:collapse
+    }
+    #mn{
+      table-layout:fixed;width:996px
+    }
+    .mitem{
+      font-size:15px;
+      line-height:24px;
+      margin-bottom:2px;
+      padding-left:0
+    }
+    .msel{
+      font-weight:bold;
+      margin:-1px 0 0 0;
+      border:solid #fff;
+      border-width:1px 0
+    }
+    .r{
+      margin:0
+    }
+    #res{
+      padding:4px 8px 0
+    }
+    .s br{
+      display:none
+    }
+    .spon{
+      font-size:11px;
+      font-weight:normal;
+      color:#767676
+    }
+    .mitem,.lnsec{
+      padding-left:8px
+    }
+    #showmodes{
+      font-size:15px;
+      line-height:24px;
+    }
+    #swr{
+      margin-top:4px
+    }
+    #swr li{
+      line-height:1.2;
+      margin-bottom:4px
+    }
+    .csb{
+      display:block;
+      height:40px;
+    }
+    .images_table td{line-height:17px;padding-bottom:16px}
+    .images_table img{border:1px solid #ccc;padding:1px}
+    .taf{
+      padding:1px 0 0
+    }
+    .tam{
+      padding:14px 0 0
+    }
+    .tal{
+      padding:14px 0 1px
+    }
+    #tbd,#abd{
+      display:block;
+      min-height:1px;
+      padding-top:3px
+    }
+    #tbd li{
+      
+      display:inline
+    }
+    .tbfo,.tbt,.tbpd{
+      margin-bottom:8px
+    }
+    #tbd .tbt li{
+      display:block;
+      font-size:13px;
+      line-height:1.2;
+      padding-bottom:3px;
+      padding-left:8px;
+      text-indent:-8px
+    }
+    .tbos,.b{
+      font-weight:bold;
+    }
+    a:hover{
+      text-decoration:underline
+    }
+    #leftnav a:hover {
+      text-decoration:underline;
+    }
+    em{
+      font-weight:bold;
+      font-style:normal
+    }
+    
+      #center_col b,#center_col em,#center_col strong,
+      #rhs_block b,#rhs_block em,#rhs_block strong{
+        color:#c03;
+        font-weight:normal
+      }
+      
+      #tbbc b{
+        color:#000;
+        font-weight:bold
+      }
+      
+      #center_col a b,#center_col a em,#center_col a strong,
+      #rhs a b,#rhs a em,#rhs a strong {
+        text-decoration:underline
+      }
+    
+    .gac_wd{
+      right:-2px !important;
+      
+      overflow:hidden
+    }
+    
+    .fmg{
+      display:inline-block;
+      margin-top:7px;
+      padding-right:8px;
+      text-align-left;
+      vertical-align:top;
+      width:90px;
+      zoom:1
+    }
+    .star{
+      
+          background-position:0 -120px;
+        
+      height:9px;
+      overflow-hidden;
+      width:50px
+    }
+    .star div{
+      
+          background-position:0 -110px
+        
+    }
+    
+    .pslires{
+      padding-top:6px;
+      overflow:hidden;
+      width:99.5%
+    }
+    .psliimg{
+      float:left;
+      height:90px;
+      text-align:top;
+      width:90px
+    }
+    .pslimain{
+      margin-left:100px;
+      margin-right:9em
+    }
+    .psliprice{
+      float:right;
+      width:7em
+    }
+    .psliprice b{
+      font-size:medium;
+      font-weight:bold;
+      white-space:nowrap
+    }
+    .psliimg img{
+      border:none
+    }
+    </style><script type="text/javascript">
+      window['hlprwt'] = function(t, ct) {
+        try {
+          if (t === window) {
+            t = window.event.srcElement;
+            while (t) {
+              if (t.href) {
+                break;
+              }
+              t = t.parentNode;
+            }
+          }
+          t.href = ct;
+          t.onmousedown = '';
+        } catch (e) {
+        }
+        return true;
+      }
+      window.google = { y: {} };
+      </script><script type="text/javascript"></script></head>
+    <body bgcolor="#ffffff" topmargin="3" marginheight="3" marginwidth="0"
+  ><div id=gbar><nobr><b class=gb1>所有網頁</b> <a class=gb1 href="http://www.google.com.hk/search?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&tbm=isch&source=og&sa=N&tab=wi">圖片</a> <a class=gb1 href="http://www.google.com.hk/search?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&tbo=u&tbm=vid&source=og&sa=N&tab=wv">影片</a> <a class=gb1 href="http://maps.google.com.hk/maps?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&sa=N&tab=wl">地圖</a> <a class=gb1 href="http://www.google.com.hk/search?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&tbo=u&tbm=nws&source=og&sa=N&tab=wn">新聞</a> <a class=gb1 href="http://translate.google.com.hk/?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&sa=N&tab=wT">翻譯</a> <a class=gb1 href="https://mail.google.com/mail/?hl=zh-TW&tab=wm">Gmail</a> <a class=gb1 style="text-decoration:none" href="http://www.google.com.hk/intl/zh-TW/options/"><u>更多</u> &raquo;</a></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.com/history/optout?hl=zh-TW" class=gb4>網頁記錄</a> | <a  href="/preferences?hl=zh-TW" class=gb4>設定</a> | <a id=gb_70 href="https://accounts.google.com/ServiceLogin?hl=zh-TW&continue=http://www.google.com.hk/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A" class=gb4>登入</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div><br clear="all"><table border="0" cellpadding="0" cellspacing="0" id="mn" style="position:relative"><tr><td rowspan="2" valign="top" width="157"><h1><a href="/webhp?hl=" id="logo" title="Go to Google Home"><img src="/images/nav_logo_hp2.png" alt="" height="222" style="border:0" width="167"></a></h1></td><td valign="top" style="padding-left:9px" width="559"><form name="gs" id="tsf" method="GET" action="/search" style="display:block;margin:0;background:none"><table border="0" cellpadding="0" cellspacing="0" id="sbhost" style="border-bottom:1px solid #e7e7e7;margin-top:18px;position:relative"><tr><td class="lst-td" width="100%" valign="bottom" style=""><div style="position:relative;zoom:1"><input autocomplete="off" class="lst" type="text" name="q" maxlength="2048" title="搜尋" value="&#38472;光&#35802;"></div></td><td><div class="ds"><div class="lsbb"><input type="submit" name="btnG" class="lsb" value="搜尋"></div></div></td></tr></table></form></td><td style="padding-left:5px" width="259"></td></tr><tr><td width="100%"><div id="subform_ctrl"><div style="float:right"><a class="fl" href="/advanced_search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;ie=UTF-8">進階搜尋</a></div><div>約有<b>1,560,000</b>項符合<b>&#38472;光&#35802;</b>的查詢結果，以下是第 <b>1</b>-<b>10</b>項。</div></div></td><td></td></tr><tr><td valign="top" id="leftnav" style="padding:4px"><div id="modeselector" style="padding-bottom:4px"><ul><li class="mitem msel"><span class="micon" style="
+          background-position:-20px -132px
+        "></span>全部</li></ul><a id="showmodes" class="q" href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;prmdo=1&amp;sa=X"><span class="micon"></span><span class="msm">更多</span></a></div><div class="lnsec"><h2 class="hd">Search Options</h2><ul id="tbd" class="med"></ul><a href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;ie=UTF-8&amp;tbo=1" class="q" style="display:block;margin-bottom:16px">顯示選項...</a></div></td><td valign="top"><div id="center_col"><div id="tbbc" style="background:#ebeff9;padding:8px;margin-bottom:4px"><b>網路工具</b></div><div id="res"><div id="ires"><ol><li class="g"><h3 class="r"><a href="http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A" onmousedown="return hlprwt(this, 'http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A')"><b>&#38472;光&#35802;</b>- &#32500;基百科，自由的百科全&#20070;</a></h3><div class="s"><b>&#38472;光&#35802;</b>（1971年11月12日－），中&#22269;山&#19996;&#20020;沂人，因幼&#26102;生病&#23548;致&#21452;眼失明。<b>&#38472;光&#35802;</b><br>  &#27809;有&#32463;&#36807;法律的&#19987;&#19994;培&#35757;，而&#20165;依靠自&#23398;法律知&#35782;，&#26469;&#24110;助&#35768;多村民、&#27531;疾人士&#32500;&#25252; <b>...</b><br><div><cite>zh.wikipedia.org/zh-hk/<b>&#38472;光&#35802;</b></cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:3p2W6Hp0hegJ:http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3><a href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;ie=UTF-8&amp;source=univ&amp;tbm=vid&amp;tbo=u&amp;ei=wAS0TrzBFIHkiALNtpF4&amp;sa=X&amp;oi=video_result_group&amp;ct=title&amp;resnum=2&amp;ved=0CBsQqwQwAQ">「<b>&#38472;光&#35802;</b>」的影片</a></h3><table class="ts" style="margin-top:-1px"><tr><td valign="top" colspan="1" width="290"><table class="ts"><tr><td valign="top" style="padding:7px 0 0;padding-right:8px"><a href="http://www.youtube.com/watch?v=Z2YB2EjRZso"><img src="http://img.youtube.com/vi/Z2YB2EjRZso/default.jpg?h=60&amp;w=80&amp;sigh=__lmY3uuTGAEIeHt1oYBPDNg1SixE=" alt="" align="left" border="1" height="60" width="80"></a></td><td valign="top" style="padding:5px 10px 0 0"><a href="http://www.youtube.com/watch?v=Z2YB2EjRZso">Free Cheng Guangcheng 1/5 <b>&#38472;光&#35802;</b>最新&#35270;&#39057;-被&#30417;控，&#26080;人身自由 <b>...</b></a><br><span class="f">12 分鐘 - 2011年2月9日<br>上傳者：vocntv</span><br><cite>www.youtube.com/watch?v=Z2YB2EjRZso</cite></td></tr></table></td><td valign="top" colspan="1" width="290"><table class="ts"><tr><td valign="top" style="padding:7px 0 0;padding-right:8px"><a href="http://www.youtube.com/watch?v=D6lnZqE57HQ"><img src="http://img.youtube.com/vi/D6lnZqE57HQ/default.jpg?h=60&amp;w=80&amp;sigh=__3Xo_TgfgZufGOH-VafXwwRh3nHQ=" alt="" align="left" border="1" height="60" width="80"></a></td><td valign="top" style="padding:5px 10px 0 0"><a href="http://www.youtube.com/watch?v=D6lnZqE57HQ">陳光誠被軟禁流出視頻（完整高清版） - YouTube</a><br><span class="f">62 分鐘 - 2011年2月13日<br>上傳者：chinasuntv</span><br><cite>www.youtube.com/watch?v=D6lnZqE57HQ</cite></td></tr></table></td></tr></table></li><li class="g"><h3 class="r"><a href="http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html" onmousedown="return hlprwt(this, 'http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html')">五网民探望<b>&#38472;光&#35802;</b>被劫&#21016;沙沙妙&#35273;遭&#22260;&#27572;&#24323;野外</a></h3><div class="s">2011年9月19日 <b>...</b> 山&#19996;&#20020;沂盲人&#32500;&#26435;人士<b>&#38472;光&#35802;</b>刑&#28385;出&#29425;一年后，和家人一直被禁止出&#38376;，家中被安&#35013;<br>  &#31363;听器，&#38376;外有看守，甚至&#36830;孩子上&#23398;的&#26435;利，也被&#21093;&#22842;。社&#20250;各 <b>...</b><br><div><cite>www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:-IG_DUJQzwAJ:http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87" onmousedown="return hlprwt(this, 'http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87')">网友&#35762;述探&#35775;<b>&#38472;光&#35802;</b>的&#32463;&#36807;| RFI</a></h3><div class="s">2011年10月6日 <b>...</b> 中&#22269;山&#19996;盲人&#32500;&#26435;人士<b>&#38472;光&#35802;</b>因&#20026;反&#23545;&#24403;地政府野&#34542;推行&#35745;划生育政策而被以<br>  莫&#39035;有的罪名&#38162;&#38107;入&#29425;，出&#29425;之后一年多&#26469;一直与其妻子与女儿一同 <b>...</b><br><div><cite>www.chinese.rfi.fr/中&#22269;/20111006-网友&#35762;述探&#35775;<b>&#38472;光&#35802;</b>的&#32463;&#36807;</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:aSkYGOMTIGQJ:http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml" onmousedown="return hlprwt(this, 'http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml')">BBC中文网- &#20004;岸三地- “看望<b>&#38472;光&#35802;</b>”活&#21160;得到&#24191;泛&#21709;&#24212;</a></h3><div class="s">2011年10月10日 <b>...</b> 由活&#21160;人士在微博上&#21457;起的网友自&#21457;看望盲人律&#24072;<b>&#38472;光&#35802;</b>的活&#21160;得到了&#24191;泛支持。<br>  &#36807;去一周，大&#32422;有20人&#35797;&#22270;&#38383;&#20851;，探望<b>&#38472;光&#35802;</b>及其家人。<br><div><cite>www.bbc.co.uk/.../111010_china_blind_lawyer.shtml</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:Qn5Yiw9KoKsJ:http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html" onmousedown="return hlprwt(this, 'http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html')"><b>&#38472;光&#35802;</b>夫&#22919;再遭&#27572;打-【<b>&#38472;光&#35802;</b>】</a></h3><div class="s">2011年2月22日 <b>...</b> 而&#22791;受各界&#20851;注的山&#19996;失明人士<b>&#38472;光&#35802;</b>境&#20917;十分&#24694;劣，香港的“中&#22269;&#32500;&#26435;律&#24072;&#20851;注&#32452;”<br>  &#25191;行秘&#20070;潘嘉&#20255;向本台表示，周一他&#20204;收到有&#20851;<b>&#38472;光&#35802;</b>的最新 <b>...</b><br><div><cite>www.aboluowang.com/.../<b>&#38472;光&#35802;</b>夫&#22919;再遭&#27572;打-119541.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:_CpW4aA4jWcJ:http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://china.dwnews.com/news/2011-06-16/57815292.html" onmousedown="return hlprwt(this, 'http://china.dwnews.com/news/2011-06-16/57815292.html')">&#20256;盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>遭暴力抄家_多&#32500;新&#38395;网</a></h3><div class="s">2011年6月16日 <b>...</b> 曾因抗拒&#20020;沂&#24403;地野&#34542;&#35745;划生育政策的盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>日前仍遭&#36719;禁在家，据<br>  网&#32476;&#20256;布的其妻子&#20146;&#31508;求救信&#26174;示，自2010年&#33719;&#37322;后<b>&#38472;光&#35802;</b>与其 <b>...</b><br><div><cite>china.dwnews.com/news/2011-06-16/57815292.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:fXh2l39LnFoJ:http://china.dwnews.com/news/2011-06-16/57815292.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://china.dwnews.com/news/2011-06-16/57815292.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://soundofhope.org/programs/162/200365-1.asp" onmousedown="return hlprwt(this, 'http://soundofhope.org/programs/162/200365-1.asp')">民&#20247;接力探&#35270;<b>&#38472;光&#35802;</b>周&#36793;居民被噤&#22768;</a></h3><div class="s">2011年10月8日 <b>...</b> 山&#19996;著名盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>，自2010年出&#29425;后即被&#24403;局&#30417;控，家中被安&#35013;&#25668;像&#22836;、<br>  手机屏蔽器、&#24378;光&#28783;，他和妻子被禁止外出，生活用品只能由 <b>...</b><br><div><cite>soundofhope.org/programs/162/200365-1.asp</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:IhhcftRml_8J:http://soundofhope.org/programs/162/200365-1.asp+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://soundofhope.org/programs/162/200365-1.asp+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://web.cenet.org.cn/upfile/74896.doc" onmousedown="return hlprwt(this, 'http://web.cenet.org.cn/upfile/74896.doc')"><b>&#38472;光&#35802;</b>,&quot;以法律&#20026;&#19994;&quot;的盲者</a></h3><div class="s"><b>&#38472;光&#35802;</b>,&quot;以法律&#20026;&#19994;&quot;的盲者 &#21457;信站： 燕南社&#21306;(http://bbs.yannan.cn). 此文&#36716;自作者<br>  的博客： &#36825;是我今年初采&#35775;的一&#20010;人物，最近，他因&#20026;揭露沂南&#21439;&#35745;生工作的野&#34542; <b>...</b><br><div><cite>web.cenet.org.cn/upfile/74896.doc</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:KH0kMRQIjZQJ:http://web.cenet.org.cn/upfile/74896.doc+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://web.cenet.org.cn/upfile/74896.doc+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="/images?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;oi=image_result_group&amp;sa=X">「<b>&#38472;光&#35802;</b>」的圖片搜尋結果</a></h3><br><div><a href="/imgres?imgurl=http://jiuyuan110.files.wordpress.com/2011/10/chen.jpg&amp;imgrefurl=http://jiuyuan110.wordpress.com/2011/10/05/49/&amp;h=395&amp;w=300&amp;sz=24&amp;tbnid=Bm7Ei8HBugK4JM:&amp;tbnh=124&amp;tbnw=94&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__X4aTZjFZl_5I3JVy_UTlnePbBHY=&amp;sa=X&amp;ei=wAS0TrzBFIHkiALNtpF4&amp;ved=0CDUQ9QEwCg"><img src="/images?q=tbn:ANd9GcRvS7CH_2aF0kT3rc_KVj8Lp1isdIY0Umaon0Vh_WI2fhTX0AA2TJIZaFA" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="59"></a><a href="/imgres?imgurl=http://www.asianews.it/files/img/CHINA_-_Chen_guangcheng_and_family.jpg&amp;imgrefurl=http://www.asianews.it/news-zh/%25E8%25AD%25A6%25E5%25AF%259F%25E6%25AE%25B4%25E6%2589%2593%25E5%25A4%25B1%25E6%2598%258E%25E7%25BB%25B4%25E6%259D%2583%25E4%25BA%25BA%25E5%25A3%25AB%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%25E5%258F%258A%25E5%2585%25B6%25E5%25A6%25BB-20747.html&amp;h=341&amp;w=455&amp;sz=38&amp;tbnid=NU0b-GFtQngMoM:&amp;tbnh=96&amp;tbnw=128&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__6T7uVOZ1jK9w5u9oczpMxebHRUw=&amp;sa=X&amp;ei=wAS0TrzBFIHkiALNtpF4&amp;ved=0CDcQ9QEwCw"><img src="/images?q=tbn:ANd9GcRfGcVRA2438LH_j3lBlLRT-sOmxZtWbvpi3fawc0NJYiPJCFHMXSOS8Q" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="104"></a><a href="/imgres?imgurl=http://4.bp.blogspot.com/_4hY1PX47w4U/TJSdavsLHnI/AAAAAAAAAIc/pvxq4gQVfNc/s1600/%E7%BB%B4%E6%9D%83%E8%8B%B1%E9%9B%84%E9%99%88%E5%85%89%E8%AF%9A.jpg&amp;imgrefurl=http://chenqitang.blogspot.com/2010/09/blog-post_18.html&amp;h=530&amp;w=650&amp;sz=56&amp;tbnid=RuVsPKv-ZP7k2M:&amp;tbnh=112&amp;tbnw=137&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__DvDHsAlmVHTkT7rasnP4oc9YFjA=&amp;sa=X&amp;ei=wAS0TrzBFIHkiALNtpF4&amp;ved=0CDkQ9QEwDA"><img src="/images?q=tbn:ANd9GcRWDFzcXaiM9sjjA9mZlFyR7S3-LfMdXDSerW-l4fF9NxVdKt84n7K8iQ" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="95"></a><a href="/imgres?imgurl=http://m1.aboluowang.com/news/data/uploadfile/200804/20080410224225317.jpg&amp;imgrefurl=http://www.aboluowang.com/news/data/2008/0410/article_45913.html&amp;h=399&amp;w=600&amp;sz=24&amp;tbnid=nRF3mwtYQhWixM:&amp;tbnh=90&amp;tbnw=135&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__uMkIyjzGwHf3e7M7BNWh_9i1y7A=&amp;sa=X&amp;ei=wAS0TrzBFIHkiALNtpF4&amp;ved=0CDsQ9QEwDQ"><img src="/images?q=tbn:ANd9GcRaSQSjmwIMtw_HoZmeWtrTh5dL36QB6a6llUw02XQQvAva1cgojY9Srzw" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="117"></a><a href="/imgres?imgurl=http://blog.boxun.com/blogfile/caichu/san6.jpg&amp;imgrefurl=http://blog.boxun.com/hero/caichu/183_1.shtml&amp;h=299&amp;w=400&amp;sz=26&amp;tbnid=g3_TRJt4S8OBgM:&amp;tbnh=93&amp;tbnw=124&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__qocVWrVBXTZZTbMa4xfxZrEmjk0=&amp;sa=X&amp;ei=wAS0TrzBFIHkiALNtpF4&amp;ved=0CD0Q9QEwDg"><img src="/images?q=tbn:ANd9GcSZkt7ibBEELqx9elHDc9on7h9KVTz-finZuHgCdFme4iqtNipNJYtfBT8" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="104"></a></div></li></ol></div></div></div><div id="foot"><table align="center" border="0" cellpadding="0" cellspacing="0" id="nav"><tr valign="top"><td class="b" align="left"><span class="csb ch" style="background-position:-26px 0;width:18px"></span><b></b></td><td><span class="csb ch" style="background-position:-44px 0;width:16px"></span><b>1</b></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=wAS0TrzBFIHkiALNtpF4&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=10&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>2</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=wAS0TrzBFIHkiALNtpF4&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=20&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>3</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=wAS0TrzBFIHkiALNtpF4&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=30&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>4</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=wAS0TrzBFIHkiALNtpF4&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=40&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>5</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=wAS0TrzBFIHkiALNtpF4&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=50&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>6</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=wAS0TrzBFIHkiALNtpF4&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=60&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>7</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=wAS0TrzBFIHkiALNtpF4&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=70&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>8</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=wAS0TrzBFIHkiALNtpF4&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=80&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>9</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=wAS0TrzBFIHkiALNtpF4&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=90&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>10</a></td><td class="b" style="text-align:left"><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=wAS0TrzBFIHkiALNtpF4&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=10&amp;sa=N" style="text-align:left"><span class="csb ch" style="background-position:-76px 0;width:66px"></span><span style="display:block;margin-left:53px"><b>下一頁</b></span></a></td></tr></table><div><div style="margin-top:22px"><form method="GET" action="/search"><table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-bottom:1px solid #e7e7e7;padding:8px 0 0;position:relative"><tr><td class="lst-td" width="100%" valign="bottom"><div style="position:relative;zoom:1"><input autocomplete="off" class="lst" type="text" name="q" maxlength="2048" value="&#38472;光&#35802;" title="搜尋"></div></td><td><div class="ds"><div class="lsbb"><input type="submit" name="btnG" class="lsb" value="搜尋"></div></div></td></tr></table><input type="hidden" name="hl" value="zh-TW"></form></div><p id="bfl" class="flc" style="margin:6px 0 0;text-align:center"><a href="/support/websearch/bin/answer.py?answer=134479&amp;hl=zh-TW">搜尋說明</a></p></div><div id="fll" class="flc" style="margin:19px auto 19px auto;text-align:center"><a href="/"> Google 首頁 </a> <a href="
+         /intl/zh-TW/ads/">廣告計劃</a> <a href="/intl/zh-TW/privacy.html">隱私權政策</a> <a href="/intl/zh-TW/about.html">Google 完全手冊</a></div></div></td><td valign="top"></td></tr></table><script src="/extern_js/f/CgV6aC1UVxICaGsgDSswWjgALCswDjgALCswCjgAmgICaGUsKzAYOAAsgAIEkAJW/GEqW3SC_47E.js"></script><script type="text/javascript">var form=document.gbqf||document.gs||document.f||document.gs;google.ac.i(form,form.q,'','&#38472;光&#35802;','',{"sw":1,"hl":1,"d":1,"o":1,"vc":-3},'serp',{"dh":true,"exp":"kjrmc","host":"google.com.hk","msgs":{"lcky":"好手氣","lml":"瞭解詳情","psrc":"已從您的「<a href=\"/history\">網頁記錄</a>」中移除這筆搜尋記錄","psrl":"移除","srch":"Google 搜尋"}})</script></body></html>getResultCount 1
+count=-1
+to send to http://www.shiaima.com/cgc/saveCount.php?count=-1
+sql=INSERT INTO CGC_SEARCH_OVERVIEW(UPDATETIME,RESULTCOUNT) VALUES (1320420544, -1)time flies
+30680 bytes retrieved
+
+<!doctype html><html><head><meta http-equiv="Content-Type" content="text/html; charset=Big5"><title>&#38472;光&#35802; - Google 搜尋</title><style>#gbar,#guser{font-size:13px;padding-top:1px !important}#gbar{height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}</style><style>
+    body,td,div,.p,a{
+      font-family:arial,sans-serif
+    }
+    body {
+      margin:0
+    }
+    #gbar{
+      float:left;
+      height:22px;padding-left:2px;
+      font-size:13px
+    }
+    
+    .gssb_c table{
+      font-size:1em
+    }
+    .gsfi,.gsfs{
+      font-size:17px
+    }
+    
+      .j{
+        width:34em
+      }
+    
+    a:link,.w,.q:active,.q:visited,.tbotu{
+      color:#11c
+    }
+    a.fl,.flc a{
+      color:#4272db;text-decoration:none
+    }
+    
+    a.gl{
+      text-decoration:none
+    }
+    cite, cite a:link{
+      color:#0E774A;
+      font-style:normal
+    }
+    #foot {
+      padding:0 8px;
+    }
+    #foot a{
+      white-space:nowrap
+    }
+    h3{
+      font-size:16px;
+      font-weight:normal;
+      margin:0;
+      padding:0
+    }
+    #res h3{
+      display:inline
+    }
+    .hd{
+      height:1px;
+      position:absolute;
+      top:-1000em
+    }
+    li.g,body,html,table,.std{
+      font-size:13px
+    }
+    li.g{
+      margin-bottom:14px;
+      margin-top:0;
+      zoom:1;
+    }
+    ol li,ul li{
+      list-style:none
+    }
+    h1,ol,ul,li{
+      margin:0;padding:0
+    }
+    #mbEnd li{
+      margin:1em 0
+    }
+    #mbEnd h2{
+      color:#676767;
+      font-family:arial,sans-serif;
+      font-size:11px;
+      font-weight:normal
+    }
+    #center_col{
+      border-left:1px solid #d3e1f9;
+      padding:0 8px
+    }
+    
+      #fll a,#bfl a{
+        margin:0 10px
+      }
+    
+    .f{
+      color:#767676
+    }
+    .grn{
+      color:#393
+    }
+    .ds{
+      border-right:1px solid #e7e7e7;
+      position:relative;
+      height:32px;
+      
+      z-index:100
+    }
+    .e{
+      margin:2px 0px 0.75em
+    }
+    #leftnav a,.slk a{
+      text-decoration:none
+    }
+    #leftnav h2{
+      color: #767676;
+      font-weight: normal;
+      margin:0
+    }
+    #logo{
+      display:block;
+      height:49px;
+      margin-top:12px;
+      margin-left:12px;
+      overflow:hidden;
+      position:relative;
+      width:137px
+    }
+    #logo img{
+      
+      left:0;
+      position:absolute;
+      top:-41px
+    }
+    .lnsec{
+      font-size:13px;
+      border-top:1px solid #c9d7f1;
+      margin-top:5px;
+      padding-top:8px
+    }
+    .lsb,.micon,.csb,.star,.star div{
+      background:url(/images/nav_logo_hp2.png) no-repeat;
+      overflow:hidden
+    }
+    .lst{
+      background:#fff;
+      border:1px solid #ccc;
+      border-bottom:none;
+      color:#000;
+      font:18px arial,sans-serif;
+      
+      float:left;
+      height:26px;
+      margin:0;
+      padding:4px 0 0;
+      padding-left:6px;
+      padding-right:10px;
+      vertical-align:top;
+      width:100%;
+      
+      word-break:break-all
+    }
+    .lst:focus{
+      outline:none
+    }
+    .lst-td{
+      border-bottom:1px solid #999;
+      padding:0
+    }
+    .lst-b{
+      border:1px solid #CCC;
+      border-bottom:none;
+      padding-right:0;
+      height:29px;
+      padding-top:1px
+    }
+    .tia input{
+      border-right:none;
+      padding-right:0
+    }
+    .tia{
+      padding-right:0
+    }
+    .lsbb{
+      background:#eee;
+      border:1px solid #999;
+      border-top-color:#ccc;
+      border-left-color:#ccc;
+      height:30px
+    }
+    .lsb{
+      background-position:bottom;
+      border:none;
+      color:#000;
+      cursor:pointer;
+      font:15px arial,sans-serif;
+      height:30px;
+      margin:0;
+      vertical-align:top
+    }
+    .lsb:active{
+      background:#ccc
+    }
+    .micon {
+      float:left;
+      height:19px;
+      margin-top:2px;
+      margin-right: 6px;
+      width:19px;
+    }
+    #nav{
+      
+      border-collapse:collapse;
+      margin-top:17px;
+      text-align:left
+    }
+    #nav td{
+      text-align:center;
+    }
+    .nobr{
+      white-space:nowrap
+    }
+    #showmodes .micon{
+      background-position:-150px -114px;
+      height:17px;
+      margin-left:9px;
+      width:17px;
+    }
+    #subform_ctrl{
+      font-size:11px;
+      height:26px;
+      margin:5px 3px 0;
+      margin-left:17px
+    }
+    .ts{
+      border-collapse:collapse
+    }
+    #mn{
+      table-layout:fixed;width:996px
+    }
+    .mitem{
+      font-size:15px;
+      line-height:24px;
+      margin-bottom:2px;
+      padding-left:0
+    }
+    .msel{
+      font-weight:bold;
+      margin:-1px 0 0 0;
+      border:solid #fff;
+      border-width:1px 0
+    }
+    .r{
+      margin:0
+    }
+    #res{
+      padding:4px 8px 0
+    }
+    .s br{
+      display:none
+    }
+    .spon{
+      font-size:11px;
+      font-weight:normal;
+      color:#767676
+    }
+    .mitem,.lnsec{
+      padding-left:8px
+    }
+    #showmodes{
+      font-size:15px;
+      line-height:24px;
+    }
+    #swr{
+      margin-top:4px
+    }
+    #swr li{
+      line-height:1.2;
+      margin-bottom:4px
+    }
+    .csb{
+      display:block;
+      height:40px;
+    }
+    .images_table td{line-height:17px;padding-bottom:16px}
+    .images_table img{border:1px solid #ccc;padding:1px}
+    .taf{
+      padding:1px 0 0
+    }
+    .tam{
+      padding:14px 0 0
+    }
+    .tal{
+      padding:14px 0 1px
+    }
+    #tbd,#abd{
+      display:block;
+      min-height:1px;
+      padding-top:3px
+    }
+    #tbd li{
+      
+      display:inline
+    }
+    .tbfo,.tbt,.tbpd{
+      margin-bottom:8px
+    }
+    #tbd .tbt li{
+      display:block;
+      font-size:13px;
+      line-height:1.2;
+      padding-bottom:3px;
+      padding-left:8px;
+      text-indent:-8px
+    }
+    .tbos,.b{
+      font-weight:bold;
+    }
+    a:hover{
+      text-decoration:underline
+    }
+    #leftnav a:hover {
+      text-decoration:underline;
+    }
+    em{
+      font-weight:bold;
+      font-style:normal
+    }
+    
+      #center_col b,#center_col em,#center_col strong,
+      #rhs_block b,#rhs_block em,#rhs_block strong{
+        color:#c03;
+        font-weight:normal
+      }
+      
+      #tbbc b{
+        color:#000;
+        font-weight:bold
+      }
+      
+      #center_col a b,#center_col a em,#center_col a strong,
+      #rhs a b,#rhs a em,#rhs a strong {
+        text-decoration:underline
+      }
+    
+    .gac_wd{
+      right:-2px !important;
+      
+      overflow:hidden
+    }
+    
+    .fmg{
+      display:inline-block;
+      margin-top:7px;
+      padding-right:8px;
+      text-align-left;
+      vertical-align:top;
+      width:90px;
+      zoom:1
+    }
+    .star{
+      
+          background-position:0 -120px;
+        
+      height:9px;
+      overflow-hidden;
+      width:50px
+    }
+    .star div{
+      
+          background-position:0 -110px
+        
+    }
+    
+    .pslires{
+      padding-top:6px;
+      overflow:hidden;
+      width:99.5%
+    }
+    .psliimg{
+      float:left;
+      height:90px;
+      text-align:top;
+      width:90px
+    }
+    .pslimain{
+      margin-left:100px;
+      margin-right:9em
+    }
+    .psliprice{
+      float:right;
+      width:7em
+    }
+    .psliprice b{
+      font-size:medium;
+      font-weight:bold;
+      white-space:nowrap
+    }
+    .psliimg img{
+      border:none
+    }
+    </style><script type="text/javascript">
+      window['hlprwt'] = function(t, ct) {
+        try {
+          if (t === window) {
+            t = window.event.srcElement;
+            while (t) {
+              if (t.href) {
+                break;
+              }
+              t = t.parentNode;
+            }
+          }
+          t.href = ct;
+          t.onmousedown = '';
+        } catch (e) {
+        }
+        return true;
+      }
+      window.google = { y: {} };
+      </script><script type="text/javascript"></script></head>
+    <body bgcolor="#ffffff" topmargin="3" marginheight="3" marginwidth="0"
+  ><div id=gbar><nobr><b class=gb1>所有網頁</b> <a class=gb1 href="http://www.google.com.hk/search?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&tbm=isch&source=og&sa=N&tab=wi">圖片</a> <a class=gb1 href="http://www.google.com.hk/search?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&tbo=u&tbm=vid&source=og&sa=N&tab=wv">影片</a> <a class=gb1 href="http://maps.google.com.hk/maps?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&sa=N&tab=wl">地圖</a> <a class=gb1 href="http://www.google.com.hk/search?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&tbo=u&tbm=nws&source=og&sa=N&tab=wn">新聞</a> <a class=gb1 href="http://translate.google.com.hk/?q=%E9%99%88%E5%85%89%E8%AF%9A&um=1&ie=UTF-8&hl=zh-TW&sa=N&tab=wT">翻譯</a> <a class=gb1 href="https://mail.google.com/mail/?hl=zh-TW&tab=wm">Gmail</a> <a class=gb1 style="text-decoration:none" href="http://www.google.com.hk/intl/zh-TW/options/"><u>更多</u> &raquo;</a></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.com/history/optout?hl=zh-TW" class=gb4>網頁記錄</a> | <a  href="/preferences?hl=zh-TW" class=gb4>設定</a> | <a id=gb_70 href="https://accounts.google.com/ServiceLogin?hl=zh-TW&continue=http://www.google.com.hk/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A" class=gb4>登入</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div><br clear="all"><table border="0" cellpadding="0" cellspacing="0" id="mn" style="position:relative"><tr><td rowspan="2" valign="top" width="157"><h1><a href="/webhp?hl=" id="logo" title="Go to Google Home"><img src="/images/nav_logo_hp2.png" alt="" height="222" style="border:0" width="167"></a></h1></td><td valign="top" style="padding-left:9px" width="559"><form name="gs" id="tsf" method="GET" action="/search" style="display:block;margin:0;background:none"><table border="0" cellpadding="0" cellspacing="0" id="sbhost" style="border-bottom:1px solid #e7e7e7;margin-top:18px;position:relative"><tr><td class="lst-td" width="100%" valign="bottom" style=""><div style="position:relative;zoom:1"><input autocomplete="off" class="lst" type="text" name="q" maxlength="2048" title="搜尋" value="&#38472;光&#35802;"></div></td><td><div class="ds"><div class="lsbb"><input type="submit" name="btnG" class="lsb" value="搜尋"></div></div></td></tr></table></form></td><td style="padding-left:5px" width="259"></td></tr><tr><td width="100%"><div id="subform_ctrl"><div style="float:right"><a class="fl" href="/advanced_search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;ie=UTF-8">進階搜尋</a></div><div>約有<b>1,560,000</b>項符合<b>&#38472;光&#35802;</b>的查詢結果，以下是第 <b>1</b>-<b>10</b>項。</div></div></td><td></td></tr><tr><td valign="top" id="leftnav" style="padding:4px"><div id="modeselector" style="padding-bottom:4px"><ul><li class="mitem msel"><span class="micon" style="
+          background-position:-20px -132px
+        "></span>全部</li></ul><a id="showmodes" class="q" href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;prmdo=1&amp;sa=X"><span class="micon"></span><span class="msm">更多</span></a></div><div class="lnsec"><h2 class="hd">Search Options</h2><ul id="tbd" class="med"></ul><a href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;ie=UTF-8&amp;tbo=1" class="q" style="display:block;margin-bottom:16px">顯示選項...</a></div></td><td valign="top"><div id="center_col"><div id="tbbc" style="background:#ebeff9;padding:8px;margin-bottom:4px"><b>網路工具</b></div><div id="res"><div id="ires"><ol><li class="g"><h3 class="r"><a href="http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A" onmousedown="return hlprwt(this, 'http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A')"><b>&#38472;光&#35802;</b>- &#32500;基百科，自由的百科全&#20070;</a></h3><div class="s"><b>&#38472;光&#35802;</b>（1971年11月12日－），中&#22269;山&#19996;&#20020;沂人，因幼&#26102;生病&#23548;致&#21452;眼失明。<b>&#38472;光&#35802;</b><br>  &#27809;有&#32463;&#36807;法律的&#19987;&#19994;培&#35757;，而&#20165;依靠自&#23398;法律知&#35782;，&#26469;&#24110;助&#35768;多村民、&#27531;疾人士&#32500;&#25252; <b>...</b><br><div><cite>zh.wikipedia.org/zh-hk/<b>&#38472;光&#35802;</b></cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:3p2W6Hp0hegJ:http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://zh.wikipedia.org/zh-hk/%E9%99%88%E5%85%89%E8%AF%9A+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3><a href="/search?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;hl=zh-TW&amp;ie=UTF-8&amp;source=univ&amp;tbm=vid&amp;tbo=u&amp;ei=ygS0Tv2uH-WZiAKLh8h9&amp;sa=X&amp;oi=video_result_group&amp;ct=title&amp;resnum=2&amp;ved=0CBsQqwQwAQ">「<b>&#38472;光&#35802;</b>」的影片</a></h3><table class="ts" style="margin-top:-1px"><tr><td valign="top" colspan="1" width="290"><table class="ts"><tr><td valign="top" style="padding:7px 0 0;padding-right:8px"><a href="http://www.youtube.com/watch?v=Z2YB2EjRZso"><img src="http://img.youtube.com/vi/Z2YB2EjRZso/default.jpg?h=60&amp;w=80&amp;sigh=__lmY3uuTGAEIeHt1oYBPDNg1SixE=" alt="" align="left" border="1" height="60" width="80"></a></td><td valign="top" style="padding:5px 10px 0 0"><a href="http://www.youtube.com/watch?v=Z2YB2EjRZso">Free Cheng Guangcheng 1/5 <b>&#38472;光&#35802;</b>最新&#35270;&#39057;-被&#30417;控，&#26080;人身自由 <b>...</b></a><br><span class="f">12 分鐘 - 2011年2月9日<br>上傳者：vocntv</span><br><cite>www.youtube.com/watch?v=Z2YB2EjRZso</cite></td></tr></table></td><td valign="top" colspan="1" width="290"><table class="ts"><tr><td valign="top" style="padding:7px 0 0;padding-right:8px"><a href="http://www.youtube.com/watch?v=D6lnZqE57HQ"><img src="http://img.youtube.com/vi/D6lnZqE57HQ/default.jpg?h=60&amp;w=80&amp;sigh=__3Xo_TgfgZufGOH-VafXwwRh3nHQ=" alt="" align="left" border="1" height="60" width="80"></a></td><td valign="top" style="padding:5px 10px 0 0"><a href="http://www.youtube.com/watch?v=D6lnZqE57HQ">陳光誠被軟禁流出視頻（完整高清版） - YouTube</a><br><span class="f">62 分鐘 - 2011年2月13日<br>上傳者：chinasuntv</span><br><cite>www.youtube.com/watch?v=D6lnZqE57HQ</cite></td></tr></table></td></tr></table></li><li class="g"><h3 class="r"><a href="http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html" onmousedown="return hlprwt(this, 'http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html')">五网民探望<b>&#38472;光&#35802;</b>被劫&#21016;沙沙妙&#35273;遭&#22260;&#27572;&#24323;野外</a></h3><div class="s">2011年9月19日 <b>...</b> 山&#19996;&#20020;沂盲人&#32500;&#26435;人士<b>&#38472;光&#35802;</b>刑&#28385;出&#29425;一年后，和家人一直被禁止出&#38376;，家中被安&#35013;<br>  &#31363;听器，&#38376;外有看守，甚至&#36830;孩子上&#23398;的&#26435;利，也被&#21093;&#22842;。社&#20250;各 <b>...</b><br><div><cite>www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:-IG_DUJQzwAJ:http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.rfa.org/mandarin/yataibaodao/cgc-09192011093052.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87" onmousedown="return hlprwt(this, 'http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87')">网友&#35762;述探&#35775;<b>&#38472;光&#35802;</b>的&#32463;&#36807;| RFI</a></h3><div class="s">2011年10月6日 <b>...</b> 中&#22269;山&#19996;盲人&#32500;&#26435;人士<b>&#38472;光&#35802;</b>因&#20026;反&#23545;&#24403;地政府野&#34542;推行&#35745;划生育政策而被以<br>  莫&#39035;有的罪名&#38162;&#38107;入&#29425;，出&#29425;之后一年多&#26469;一直与其妻子与女儿一同 <b>...</b><br><div><cite>www.chinese.rfi.fr/中&#22269;/20111006-网友&#35762;述探&#35775;<b>&#38472;光&#35802;</b>的&#32463;&#36807;</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:aSkYGOMTIGQJ:http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20111006-%E7%BD%91%E5%8F%8B%E8%AE%B2%E8%BF%B0%E6%8E%A2%E8%AE%BF%E9%99%88%E5%85%89%E8%AF%9A%E7%9A%84%E7%BB%8F%E8%BF%87+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml" onmousedown="return hlprwt(this, 'http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml')">BBC中文网- &#20004;岸三地- “看望<b>&#38472;光&#35802;</b>”活&#21160;得到&#24191;泛&#21709;&#24212;</a></h3><div class="s">2011年10月10日 <b>...</b> 由活&#21160;人士在微博上&#21457;起的网友自&#21457;看望盲人律&#24072;<b>&#38472;光&#35802;</b>的活&#21160;得到了&#24191;泛支持。<br>  &#36807;去一周，大&#32422;有20人&#35797;&#22270;&#38383;&#20851;，探望<b>&#38472;光&#35802;</b>及其家人。<br><div><cite>www.bbc.co.uk/.../111010_china_blind_lawyer.shtml</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:Qn5Yiw9KoKsJ:http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.bbc.co.uk/zhongwen/simp/chinese_news/2011/10/111010_china_blind_lawyer.shtml+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html" onmousedown="return hlprwt(this, 'http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html')"><b>&#38472;光&#35802;</b>夫&#22919;再遭&#27572;打-【<b>&#38472;光&#35802;</b>】</a></h3><div class="s">2011年2月22日 <b>...</b> 而&#22791;受各界&#20851;注的山&#19996;失明人士<b>&#38472;光&#35802;</b>境&#20917;十分&#24694;劣，香港的“中&#22269;&#32500;&#26435;律&#24072;&#20851;注&#32452;”<br>  &#25191;行秘&#20070;潘嘉&#20255;向本台表示，周一他&#20204;收到有&#20851;<b>&#38472;光&#35802;</b>的最新 <b>...</b><br><div><cite>www.aboluowang.com/.../<b>&#38472;光&#35802;</b>夫&#22919;再遭&#27572;打-119541.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:_CpW4aA4jWcJ:http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://www.aboluowang.com/news/2011/0222/%E9%99%88%E5%85%89%E8%AF%9A%E5%A4%AB%E5%A6%87%E5%86%8D%E9%81%AD%E6%AE%B4%E6%89%93-119541.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://china.dwnews.com/news/2011-06-16/57815292.html" onmousedown="return hlprwt(this, 'http://china.dwnews.com/news/2011-06-16/57815292.html')">&#20256;盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>遭暴力抄家_多&#32500;新&#38395;网</a></h3><div class="s">2011年6月16日 <b>...</b> 曾因抗拒&#20020;沂&#24403;地野&#34542;&#35745;划生育政策的盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>日前仍遭&#36719;禁在家，据<br>  网&#32476;&#20256;布的其妻子&#20146;&#31508;求救信&#26174;示，自2010年&#33719;&#37322;后<b>&#38472;光&#35802;</b>与其 <b>...</b><br><div><cite>china.dwnews.com/news/2011-06-16/57815292.html</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:fXh2l39LnFoJ:http://china.dwnews.com/news/2011-06-16/57815292.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://china.dwnews.com/news/2011-06-16/57815292.html+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://soundofhope.org/programs/162/200365-1.asp" onmousedown="return hlprwt(this, 'http://soundofhope.org/programs/162/200365-1.asp')">民&#20247;接力探&#35270;<b>&#38472;光&#35802;</b>周&#36793;居民被噤&#22768;</a></h3><div class="s">2011年10月8日 <b>...</b> 山&#19996;著名盲人&#32500;&#26435;律&#24072;<b>&#38472;光&#35802;</b>，自2010年出&#29425;后即被&#24403;局&#30417;控，家中被安&#35013;&#25668;像&#22836;、<br>  手机屏蔽器、&#24378;光&#28783;，他和妻子被禁止外出，生活用品只能由 <b>...</b><br><div><cite>soundofhope.org/programs/162/200365-1.asp</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:IhhcftRml_8J:http://soundofhope.org/programs/162/200365-1.asp+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://soundofhope.org/programs/162/200365-1.asp+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="http://web.cenet.org.cn/upfile/74896.doc" onmousedown="return hlprwt(this, 'http://web.cenet.org.cn/upfile/74896.doc')"><b>&#38472;光&#35802;</b>,&quot;以法律&#20026;&#19994;&quot;的盲者</a></h3><div class="s"><b>&#38472;光&#35802;</b>,&quot;以法律&#20026;&#19994;&quot;的盲者 &#21457;信站： 燕南社&#21306;(http://bbs.yannan.cn). 此文&#36716;自作者<br>  的博客： &#36825;是我今年初采&#35775;的一&#20010;人物，最近，他因&#20026;揭露沂南&#21439;&#35745;生工作的野&#34542; <b>...</b><br><div><cite>web.cenet.org.cn/upfile/74896.doc</cite><span class="flc"> - <a href="//webcache.googleusercontent.com/search?hl=zh-TW&amp;q=cache:KH0kMRQIjZQJ:http://web.cenet.org.cn/upfile/74896.doc+%E9%99%88%E5%85%89%E8%AF%9A&amp;ct=clnk">頁庫存檔</a> - <a href="/search?hl=zh-TW&amp;tbo=1&amp;q=related:http://web.cenet.org.cn/upfile/74896.doc+%E9%99%88%E5%85%89%E8%AF%9A&amp;sa=X">類似內容</a></span></div></div></li><li class="g"><h3 class="r"><a href="/images?q=%E9%99%88%E5%85%89%E8%AF%9A&amp;oi=image_result_group&amp;sa=X">「<b>&#38472;光&#35802;</b>」的圖片搜尋結果</a></h3><br><div><a href="/imgres?imgurl=http://jiuyuan110.files.wordpress.com/2011/10/chen.jpg&amp;imgrefurl=http://jiuyuan110.wordpress.com/2011/10/05/49/&amp;h=395&amp;w=300&amp;sz=24&amp;tbnid=Bm7Ei8HBugK4JM:&amp;tbnh=124&amp;tbnw=94&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__X4aTZjFZl_5I3JVy_UTlnePbBHY=&amp;sa=X&amp;ei=ygS0Tv2uH-WZiAKLh8h9&amp;ved=0CDUQ9QEwCg"><img src="/images?q=tbn:ANd9GcRvS7CH_2aF0kT3rc_KVj8Lp1isdIY0Umaon0Vh_WI2fhTX0AA2TJIZaFA" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="59"></a><a href="/imgres?imgurl=http://www.asianews.it/files/img/CHINA_-_Chen_guangcheng_and_family.jpg&amp;imgrefurl=http://www.asianews.it/news-zh/%25E8%25AD%25A6%25E5%25AF%259F%25E6%25AE%25B4%25E6%2589%2593%25E5%25A4%25B1%25E6%2598%258E%25E7%25BB%25B4%25E6%259D%2583%25E4%25BA%25BA%25E5%25A3%25AB%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%25E5%258F%258A%25E5%2585%25B6%25E5%25A6%25BB-20747.html&amp;h=341&amp;w=455&amp;sz=38&amp;tbnid=NU0b-GFtQngMoM:&amp;tbnh=96&amp;tbnw=128&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__6T7uVOZ1jK9w5u9oczpMxebHRUw=&amp;sa=X&amp;ei=ygS0Tv2uH-WZiAKLh8h9&amp;ved=0CDcQ9QEwCw"><img src="/images?q=tbn:ANd9GcRfGcVRA2438LH_j3lBlLRT-sOmxZtWbvpi3fawc0NJYiPJCFHMXSOS8Q" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="104"></a><a href="/imgres?imgurl=http://4.bp.blogspot.com/_4hY1PX47w4U/TJSdavsLHnI/AAAAAAAAAIc/pvxq4gQVfNc/s1600/%E7%BB%B4%E6%9D%83%E8%8B%B1%E9%9B%84%E9%99%88%E5%85%89%E8%AF%9A.jpg&amp;imgrefurl=http://chenqitang.blogspot.com/2010/09/blog-post_18.html&amp;h=530&amp;w=650&amp;sz=56&amp;tbnid=RuVsPKv-ZP7k2M:&amp;tbnh=112&amp;tbnw=137&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__DvDHsAlmVHTkT7rasnP4oc9YFjA=&amp;sa=X&amp;ei=ygS0Tv2uH-WZiAKLh8h9&amp;ved=0CDkQ9QEwDA"><img src="/images?q=tbn:ANd9GcRWDFzcXaiM9sjjA9mZlFyR7S3-LfMdXDSerW-l4fF9NxVdKt84n7K8iQ" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="95"></a><a href="/imgres?imgurl=http://m1.aboluowang.com/news/data/uploadfile/200804/20080410224225317.jpg&amp;imgrefurl=http://www.aboluowang.com/news/data/2008/0410/article_45913.html&amp;h=399&amp;w=600&amp;sz=24&amp;tbnid=nRF3mwtYQhWixM:&amp;tbnh=90&amp;tbnw=135&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__uMkIyjzGwHf3e7M7BNWh_9i1y7A=&amp;sa=X&amp;ei=ygS0Tv2uH-WZiAKLh8h9&amp;ved=0CDsQ9QEwDQ"><img src="/images?q=tbn:ANd9GcRaSQSjmwIMtw_HoZmeWtrTh5dL36QB6a6llUw02XQQvAva1cgojY9Srzw" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="117"></a><a href="/imgres?imgurl=http://blog.boxun.com/blogfile/caichu/san6.jpg&amp;imgrefurl=http://blog.boxun.com/hero/caichu/183_1.shtml&amp;h=299&amp;w=400&amp;sz=26&amp;tbnid=g3_TRJt4S8OBgM:&amp;tbnh=93&amp;tbnw=124&amp;prev=/search%3Fq%3D%25E9%2599%2588%25E5%2585%2589%25E8%25AF%259A%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;usg=__qocVWrVBXTZZTbMa4xfxZrEmjk0=&amp;sa=X&amp;ei=ygS0Tv2uH-WZiAKLh8h9&amp;ved=0CD0Q9QEwDg"><img src="/images?q=tbn:ANd9GcSZkt7ibBEELqx9elHDc9on7h9KVTz-finZuHgCdFme4iqtNipNJYtfBT8" alt="" align="middle" border="1" style="margin:3px 0;margin-right:6px;padding:0" height="78" width="104"></a></div></li></ol></div></div></div><div id="foot"><table align="center" border="0" cellpadding="0" cellspacing="0" id="nav"><tr valign="top"><td class="b" align="left"><span class="csb ch" style="background-position:-26px 0;width:18px"></span><b></b></td><td><span class="csb ch" style="background-position:-44px 0;width:16px"></span><b>1</b></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=ygS0Tv2uH-WZiAKLh8h9&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=10&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>2</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=ygS0Tv2uH-WZiAKLh8h9&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=20&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>3</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=ygS0Tv2uH-WZiAKLh8h9&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=30&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>4</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=ygS0Tv2uH-WZiAKLh8h9&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=40&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>5</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=ygS0Tv2uH-WZiAKLh8h9&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=50&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>6</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=ygS0Tv2uH-WZiAKLh8h9&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=60&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>7</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=ygS0Tv2uH-WZiAKLh8h9&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=70&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>8</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=ygS0Tv2uH-WZiAKLh8h9&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=80&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>9</a></td><td><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=ygS0Tv2uH-WZiAKLh8h9&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=90&amp;sa=N" class="fl"><span class="csb ch" style="background-position:-60px 0;width:16px"></span>10</a></td><td class="b" style="text-align:left"><a href="/search?hl=zh-TW&amp;ie=UTF-8&amp;ei=ygS0Tv2uH-WZiAKLh8h9&amp;q=%E9%99%88%E5%85%89%E8%AF%9A&amp;start=10&amp;sa=N" style="text-align:left"><span class="csb ch" style="background-position:-76px 0;width:66px"></span><span style="display:block;margin-left:53px"><b>下一頁</b></span></a></td></tr></table><div><div style="margin-top:22px"><form method="GET" action="/search"><table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-bottom:1px solid #e7e7e7;padding:8px 0 0;position:relative"><tr><td class="lst-td" width="100%" valign="bottom"><div style="position:relative;zoom:1"><input autocomplete="off" class="lst" type="text" name="q" maxlength="2048" value="&#38472;光&#35802;" title="搜尋"></div></td><td><div class="ds"><div class="lsbb"><input type="submit" name="btnG" class="lsb" value="搜尋"></div></div></td></tr></table><input type="hidden" name="hl" value="zh-TW"></form></div><p id="bfl" class="flc" style="margin:6px 0 0;text-align:center"><a href="/support/websearch/bin/answer.py?an
