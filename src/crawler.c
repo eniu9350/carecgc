@@ -57,7 +57,7 @@ int crawl(char* url, HtmlContent* h)
     strDisplay = (char*)malloc(111201);
     memcpy(strDisplay, h->content, 111200);
     strDisplay[111200] = '\0';
-              printf("\n%s", strDisplay);
+//              printf("\n%s", strDisplay);
 
     if(h->content)
     {

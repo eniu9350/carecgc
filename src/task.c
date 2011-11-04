@@ -48,7 +48,7 @@ int getCount()
 
     pre.prefix = 1;
     //pre.s = "resultStats>";
-pre.s = "newwindow=1&amp;ie=UTF-8\"";
+pre.s = "&amp;hl=zh-TW&amp;ie=UTF-8\"";
     pre.offset = 31;
 
     post.prefix = 0;
