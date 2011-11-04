@@ -47,12 +47,14 @@ int getCount()
     //res = crawl("http://www.baidu.com", &h);
 
     pre.prefix = 1;
-    pre.s = "resultStats>";
-    pre.offset = 5;
+    //pre.s = "resultStats>";
+pre.s = "newwindow=1&amp;ie=UTF-8\"";
+    pre.offset = 31;
 
     post.prefix = 0;
-    post.s = "<nobr>";
-    post.offset = 7;
+//    post.s = "<nobr>";
+    post.s = "</b>";
+    post.offset = 0;
     count = getResultCount(&h, &pre, &post);
     printf("count=%d\n",count);
     return count;

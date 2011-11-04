@@ -42,7 +42,7 @@ int getResultCount(HtmlContent* h, Boundary* pre, Boundary* post)
     memcpy(tmp, start, 300);
     tmp[300]='\0';
 //printf("getResultCount 3, start=%d, end=%d, tmp=%s\n",start, end, tmp);
-    printf("getResultCount 3");
+    printf("getResultCount 3, tmp=%s", tmp);
 
     memcpy(strCount, start, end-start);
     strCount[end-start] = '\0';

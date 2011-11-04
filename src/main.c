@@ -30,7 +30,7 @@ int main(int argc, char* argv[])
 
         h.content = (char*)malloc(1);
         h.size = 0;
-        res = crawl("http://www.google.com.hk/search?q=chenguangcheng", &h);
+        res = crawl("http://www.google.com.hk/search?q=%e9%99%88%e5%85%89%e8%af%9a", &h);
         //res = crawl("http://www.baidu.com", &h);
 
         pre.prefix = 1;
