@@ -28,26 +28,29 @@ static size_t WriteMemoryCallBack(void* contents, size_t size, size_t nmemb, voi
 	h->content[h->size] = 0;
 
 	//printf("realsize=%d, lenofcontet=%d\n", realsize, strlen(h->content));
+	if((strlen(h->content))>30000 && !h->processed){
+		// 2. parse response
+		//res = crawl("http://www.google.com.hk/search?q=%E9%99%88%E5%85%89%E8%AF%9A", &h);
+		pre.prefix = 1;
+		pre.s = "&amp;hl=zh-TW&amp;ie=UTF-8\"";
+		pre.offset = 31;
 
-	// 2. parse response
-	//res = crawl("http://www.google.com.hk/search?q=%E9%99%88%E5%85%89%E8%AF%9A", &h);
-	pre.prefix = 1;
-	pre.s = "&amp;hl=zh-TW&amp;ie=UTF-8\"";
-	pre.offset = 31;
+		post.prefix = 0;
+		post.s = "</b>";
+		post.offset = 0;
+		count = getResultCount(h, &pre, &post);
 
-	post.prefix = 0;
-	post.s = "</b>";
-	post.offset = 0;
-	count = getResultCount(h, &pre, &post);
+		h->processed = 1;
 
-	if(h->content)
-	{
-	   free(h->content);	//clear storage
+		if(h->content)
+		{
+			//free(h->content);	//clear storage
+		}
+
+		// 3. send database update request
+		sendReq(count);
 	}
 
-	// 3. send database update request
-	sendReq(count);
-	
 	return realsize;
 }
 

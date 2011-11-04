@@ -19,6 +19,7 @@ void save_to_db(int i)
 	HtmlContent h;
 	h.content = (char*)malloc(1);
 	h.size = 0;
+	h.processed = 0;
 	res = crawl("http://www.google.com.hk/search?q=%E9%99%88%E5%85%89%E8%AF%9A", &h);
 
 	signal(SIGALRM, save_to_db);

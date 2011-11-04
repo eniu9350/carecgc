@@ -4,6 +4,7 @@ typedef struct
 {
     char* content;
     size_t size;
+	int processed;//0: not processed yet
 } HtmlContent;
 
 int crawl(char* url, HtmlContent* h);
