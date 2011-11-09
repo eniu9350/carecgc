@@ -21,7 +21,7 @@ void save_to_db(int i)
 	h.size = 0;
 	h.processed = 0;
 	res = crawl("http://www.google.com.hk/search?q=%E9%99%88%E5%85%89%E8%AF%9A", &h);
-
+/*
 	signal(SIGALRM, save_to_db);
 
 	to.it_interval.tv_sec = 0;
@@ -30,6 +30,7 @@ void save_to_db(int i)
 	to.it_value.tv_usec = 0;
 
 	setitimer(ITIMER_REAL, &to, 0);
+*/
 
 	printf("time flies\n");
 }
